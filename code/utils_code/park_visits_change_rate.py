@@ -19,6 +19,7 @@ from matplotlib import pyplot as plt
 import matplotlib.dates as mdates
 from matplotlib.dates import DateFormatter
 from matplotlib import colors
+from matplotlib.lines import Line2D  
 import seaborn as sns
 
 # other utility packages
@@ -64,7 +65,6 @@ def generate_summary_report(data, groupby_cols, value_cols):
     return summary_df
 
 
-# modify this later
 def summary_by_topic(data, groupby_cols, value_cols, topic, test_method='wilcoxon', complete_report=False):
     
     # get the summary statistics
@@ -92,7 +92,7 @@ def summary_by_topic(data, groupby_cols, value_cols, topic, test_method='wilcoxo
                                                data_sub[value_cols[0]])
 
         
-        summary_df.loc[index, 't_stat'] = test_result[0]
+        summary_df.loc[index, 'test_stat'] = test_result[0]
         summary_df.loc[index, 'p_value'] = test_result[1]
 
 
@@ -214,28 +214,6 @@ def plot_by_topic(datasets, labels, titles, topic_label, text_locs=[None,None,No
     return text_loc_origs
 
 
-def t_test_by_topic(data, topic):
-
-    columns = ['n_sample', 't_stat', 'p_value']
-    ttest_results = pd.DataFrame(columns=columns)
-    
-    summary_sub = data.reset_index()
-    summary_sub = summary_sub[~summary_sub['month'].isin([1,2])]    # drop the first two months when the pandemic didn't start
-
-    for i, category in enumerate(summary_sub[topic].unique()):
-        
-        data_sub = summary_sub[summary_sub[topic]==category][['visits_2019', 'visits_2020']]
-        ttest_results.loc[category, 'n_sample'] = data_sub.shape[0]
-        
-        ttest_result = scipy.stats.ttest_rel(data_sub['visits_2020'],
-                                             data_sub['visits_2019'])
-
-        ttest_results.loc[category, 't_stat'] = ttest_result[0]
-        ttest_results.loc[category, 'p_value'] = ttest_result[1]
-            
-    return ttest_results
-
-
 def generate_tukeyhsd_group_letters(res):
 
     # generate tukey_hsd group letters
@@ -297,10 +275,11 @@ def generate_tukeyhsd_group_letters(res):
 
 
 
-def tukeyhsd_test(data, value_col, topic, subtopic=None):
+def tukeyhsd_test(data, value_col, topic, subtopic=None, filter_month=False):
 
     summary_sub = data.reset_index()
-    # summary_sub = summary_sub[~summary_sub['month'].isin([1,2])]    # drop the first two months when the pandemic didn't start
+    if filter_month == True:
+        summary_sub = summary_sub[~summary_sub['month'].isin([1,2])]    # drop the first two months when the pandemic didn't start
 
     if subtopic is not None:
         
@@ -329,22 +308,7 @@ def tukeyhsd_test(data, value_col, topic, subtopic=None):
         group_letters = generate_tukeyhsd_group_letters(res)
     
         return res_df, group_letters
-
-
-## SES data
-
-def read_acs_ses_data(data_path):
     
-    ses_data = pd.read_csv(data_path, skiprows=[0])
-    ses_data['cbg_id'] = ses_data['id'].str.split('US').str[1]    # extract cbg id
-    
-    # clean the data and convert them to numeric
-    for column in ses_data.columns[2:-1]:
-        ses_data[column] = ses_data[column].astype(str)
-        ses_data[column] = ses_data[column].str.replace('\D', '', regex=True)
-        ses_data[column] = pd.to_numeric(ses_data[column])
-    
-    return ses_data
 
 
 def label_income_group(data, income_data, income_theme, n_group, origin_dest=''):
@@ -362,84 +326,6 @@ def label_income_group(data, income_data, income_theme, n_group, origin_dest='')
                                       bins=bins, labels=['lower', 'lower middle', 'middle', 'upper middle', 'upper'])
         
     return data
-
-
-def calc_park_visits(data, park_dest_income):
-    
-    park_visits = data.drop_duplicates(subset=['safegraph_place_id', 'park_name', 'parknum', 'park_type', 'date', 'year', 'month', 'raw_visit_counts'])
-    park_visits = park_visits[['park_name', 'parknum', 'park_type', 'date', 'year', 'month', 'raw_visit_counts', 'visitor_dest_county', 'visitor_dest_county_name']]
-    park_visits = park_visits[park_visits['visitor_dest_county'].isin(['36005','36047','36061','36081','36085'])]
-    park_visits = park_visits.groupby(['park_name', 'park_type', 'parknum', 'visitor_dest_county_name', 'date', 'year', 'month'], as_index=False)['raw_visit_counts'].sum()
-
-    park_visits = pd.merge(park_visits, park_dest_income, on=['park_name', 'parknum', 'park_type', 'visitor_dest_county_name'], how='left')
-
-    park_visits_temp = pd.merge(park_visits, nyc_avg_temp_monthly,
-                                left_on='date', right_on='DATE')
-
-    # filter the data for each year
-    park_visits_2019 = park_visits_temp[park_visits_temp['year'] == 2019]
-    park_visits_2020 = park_visits_temp[park_visits_temp['year'] == 2020]
-
-    park_visits_change = pd.merge(park_visits_2019, park_visits_2020, how='outer',
-                                  on=['park_name', 'park_type', 'visitor_dest_county_name', 'month'],
-                                  suffixes=['_2019', '_2020'])
-
-    park_visits_change.drop(columns=['date_2019','date_2020', 'DATE_2019', 'DATE_2020', 'year_2019', 'year_2020',
-                                     'index_2019', 'index_2020', 'income_group_2019'], inplace=True)
-    park_visits_change.rename(columns={'income_group_2020':'income_group'}, inplace=True)
-    park_visits_change.dropna(subset=['raw_visit_counts_2019', 'raw_visit_counts_2020'], inplace=True)
-
-    # use 3rd degree polynomial 
-    park_visits_change['visits_adj_rate'] = (func_poly3(park_visits_change['TAVG_2020'].to_numpy().reshape(-1,1), *popt_4) - func_poly3(park_visits_change['TAVG_2019'].to_numpy().reshape(-1,1), *popt_4)) / \
-                                            func_poly3(park_visits_change['TAVG_2020'].to_numpy().reshape(-1,1), *popt_4)
-
-    park_visits_change['visits_base_adjtd']  = park_visits_change['raw_visit_counts_2019'] * (park_visits_change['visits_adj_rate'] + 1)
-    park_visits_change['visit_change_rate'] = (park_visits_change['raw_visit_counts_2020'] - park_visits_change['visits_base_adjtd']) / park_visits_change['visits_base_adjtd'] * 100
-
-    park_visits_change_cat = park_visits_change.dropna(subset=['visit_change_rate'])
-    park_visits_change_cat = park_visits_change_cat[(park_visits_change_cat['park_type'].isin(major_park_types))]
-
-    park_visits_change_cat['park_type'] = park_visits_change_cat['park_type'].astype('category')
-    park_visits_change_cat['month'] = park_visits_change_cat['month'].astype('category')
-    park_visits_change_cat['visitor_dest_county_name'] = park_visits_change_cat['visitor_dest_county_name'].astype('category')
-    
-    park_visits_change_cat_filtered = remove_extreme_values(park_visits_change_cat, 'visit_change_rate')
-    
-    
-    return park_visits_change_cat_filtered
-
-
-def plot_ses_data(data):
-    
-    fig, ax = plt.subplots(figsize=(12,8))
-
-    cmap = plt.cm.get_cmap('tab10', 10)
-
-    for i, income_group in enumerate(data.columns):
-        ax.plot(data.index, data[income_group], 'o-', color=cmap.colors[i], label=income_group)
-
-    ax.set_xlabel('Month')
-    ax.set_ylabel('Visits Change Rate')
-    ax.legend();
-
-
-## SES and other topic
-
-def summary_report_ses(data, groupby_cols, value_cols, metric, local):
-    
-    if local:
-        data = data[data['visitor_home_county'].isin(['36005','36047','36061','36081','36085'])].copy()
-    
-    # calculate the mean
-    if metric == 'mean':
-        summary_df = data.groupby(groupby_cols)[value_cols].mean()
-
-    # calculate the median
-    elif metric == 'median':
-        summary_df = data.groupby(groupby_cols)[value_cols].median()
-    
-    return summary_df
-
 
 
 def plot_by_ses_and_topic(summary_data, topic_categories, cat_col, value_col, ylabel, tukeyhsd_labels, title=None):
@@ -493,11 +379,16 @@ def plot_by_ses_and_topic(summary_data, topic_categories, cat_col, value_col, yl
     plt.tight_layout();
 
 
+
 ### generate summary tables
 def summarize_travel_distance(data, topic_col, value_col, by_income_group=False):
 
     # subselect data
-    data_sub = data[[topic_col, value_col, 'income_group', 'month', 'year']]
+    if not by_income_group:
+        data_sub = data[[topic_col, value_col, 'month', 'year']]
+    else:
+        data_sub = data[[topic_col, value_col, 'income_group', 'month', 'year']]
+
     data_sub = data_sub.dropna()
     data_sub = data_sub[~data_sub['month'].isin([1,2])]    # drop the first two months when the pandemic didn't start
     data_before_all = data_sub[data_sub['year'] == 2019]
@@ -721,80 +612,3 @@ def travel_distance_summary_graph(data_summary, topic_col, hue_col, width):
 
     plt.tight_layout();
 
-
-def summary_report_concise(data, topic_col, value_col, metric):
-
-    # subselect data
-    data_sub = data[[topic_col, value_col, 'year', 'month']]
-    data_sub = data_sub[~data_sub['month'].isin([1,2])]    # drop the first two months when the pandemic didn't start
-    data_before = data_sub[data_sub['year'] == 2019]
-    data_during = data_sub[data_sub['year'] == 2020]
-
-    # initialize the summary df
-    summary_df = pd.DataFrame()
-
-    topic_cat = list(data_sub[topic_col].unique())
-    topic_cat.append('Overall')
-
-    # summary_df['n_sample_b'] = data_before.groupby(topic_col)[value_col].size()
-    # summary_df['n_sample_d'] = data_during.groupby(topic_col)[value_col].size()
-
-    # calculate the mean
-    if metric == 'mean':
-
-        # summary_df['2018'] = data_2018.groupby(topic_col)[value_col].mean()
-        # summary_df['2019'] = data_2019.groupby(topic_col)[value_col].mean()
-        summary_df['before'] = data_before.groupby(topic_col)[value_col].mean()
-        summary_df['during'] = data_during.groupby(topic_col)[value_col].mean()
-
-        summary_df.loc['Overall','before'] = data_before[value_col].mean()
-        summary_df.loc['Overall','during'] = data_during[value_col].mean()
-
-        summary_df['mean_diff'] = summary_df['during'] - summary_df['before']
-
-        for i, cat in enumerate(topic_cat):
-
-            if cat != 'Overall':
-
-                d1 = smsw.DescrStatsW(data_during[data_during[topic_col] == cat][value_col].dropna().to_numpy())
-                d2 = smsw.DescrStatsW(data_before[data_before[topic_col] == cat][value_col].dropna().to_numpy())
-            
-            else:
-
-                d1 = smsw.DescrStatsW(data_during[value_col].dropna().to_numpy())
-                d2 = smsw.DescrStatsW(data_before[value_col].dropna().to_numpy())
-
-            lb, ub = smsw.CompareMeans(d1,d2).tconfint_diff(usevar='unequal')
-            t, p, df = smsw.CompareMeans(d1,d2).ttest_ind(usevar='unequal')
-
-            summary_df.loc[cat,'diff_lb'] = lb
-            summary_df.loc[cat,'diff_ub'] = ub
-            summary_df.loc[cat,'p_value'] = p
-
-        summary_df['mean_diff_pct'] = summary_df['mean_diff'] / summary_df['before'] * 100
-        summary_df['diff_lb_pct'] = summary_df['diff_lb'] / summary_df['before'] * 100
-        summary_df['diff_ub_pct'] = summary_df['diff_ub'] / summary_df['before'] * 100
-
-
-        data_before_tukeyhsd = data_before.groupby([topic_col,'month'])[value_col].mean()
-        res_dfs_b, group_letters_b = tukeyhsd_test(data_before_tukeyhsd, value_col, topic_col)
-        summary_df['groups_before'] = group_letters_b
-
-        data_during_tukeyhsd = data_during.groupby([topic_col,'month'])[value_col].mean()
-        res_dfs_d, group_letters_d = tukeyhsd_test(data_during_tukeyhsd, value_col, topic_col)
-        summary_df['groups_during'] = group_letters_d
-
-
-    # calculate the median
-    elif metric == 'median':
-
-        summary_df['before'] = data_before.groupby(topic_col)[value_col].median()
-        summary_df['during'] = data_during.groupby(topic_col)[value_col].median()
-
-
-    summary_df = summary_df.reset_index()
-
-
-    return summary_df
-
-    

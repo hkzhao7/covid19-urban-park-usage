@@ -1,0 +1,1273 @@
+﻿landuse,park_name,parknum,Shape_Length,Shape_Area,CENTROID_X,CENTROID_Y
+Community Park,Abraham Lincoln Playground,M193,0.002879668,3.99691E-07,-73.93717846,40.81217791
+Community Park,Alfred E. Smith Playground,M194,0.007481026,7.93397E-07,-73.99753848,40.71067508
+Community Park,Aqueduct Walk,X001,0.012709657,8.48004E-07,-73.90212736,40.86517446
+Community Park,Aqueduct Walk,X001A,0.03489118,3.80013E-06,-73.90907773,40.85684087
+Community Park,Asphalt Green,M286,0.008695997,1.90341E-06,-73.94399601,40.77866386
+Community Park,Asser Levy Park,B080,0.032305981,1.02437E-05,-73.97369895,40.57469841
+Community Park,Astoria Park,Q004,0.030208639,2.13254E-05,-73.92304369,40.77844565
+Community Park,Baisley Pond Park,Q005,0.056452365,4.91382E-05,-73.78616207,40.67597939
+Community Park,Battery Park City,M283,0.065878502,1.08268E-05,-74.01682092,40.71276336
+Community Park,Battery Park City,M283A,0.000650315,2.54028E-08,-74.01765897,40.71205542
+Community Park,Bayswater Park,Q007,0.023407684,1.03892E-05,-73.76867315,40.59916277
+Community Park,Betsy Head Park,B008,0.015034959,4.35829E-06,-73.9129551,40.66314093
+Community Park,Big Bush Park,Q205A,0.005652248,1.34152E-06,-73.9026142,40.73960993
+Community Park,Bloomingdale Park,R106,0.067808468,6.76991E-05,-74.21424574,40.53314071
+Community Park,Breukelen Ballfields,B247,0.01623275,6.79981E-06,-73.89250478,40.6525062
+Community Park,Brooklyn Bridge Park,B431,0.069824621,2.22433E-05,-73.99803098,40.69877459
+Community Park,Brookville Park,Q008,0.072520034,3.84974E-05,-73.74571492,40.65945888
+Community Park,Bushwick Playground,B310,0.0032221,5.8729E-07,-73.93943755,40.70175698
+Community Park,Callahan-Kelly Playground,B219,0.008828484,1.73862E-06,-73.90510993,40.67833384
+Community Park,Cambria Playground,Q339,0.005947166,2.02849E-06,-73.74293286,40.6891391
+Community Park,Canarsie Park,B018,0.054638983,5.77767E-05,-73.8916592,40.63013625
+Community Park,Carter G. Woodson Children's Park,B397,0.002952188,4.02358E-07,-73.90583479,40.66845428
+Community Park,Claremont Park,X008,0.019310561,1.66037E-05,-73.9074361,40.84045539
+Community Park,Clove Lakes Park,R005,0.066648719,8.4466E-05,-74.11373201,40.61945737
+Community Park,Commodore Barry Park,B021,0.008664091,4.33965E-06,-73.97894032,40.69729847
+Community Park,Commodore Berry,B021,0.000321073,6.31559E-09,-73.97817693,40.69759239
+Community Park,CPL. Thompson Park,R109,0.009478216,4.67809E-06,-74.11884075,40.63806993
+Community Park,Crocheron Park,Q012,0.031141334,1.80946E-05,-73.76739712,40.77157088
+Community Park,Damrosch Park,M231,0.004917341,1.08331E-06,-73.98497836,40.77221347
+Community Park,Detective Keith L Williams Park,Q121,0.008598513,3.43465E-06,-73.78443978,40.70289236
+Community Park,Di Gilio Playground,B316,0.002735284,3.8423E-07,-73.97712836,40.63262501
+Community Park,Dry Dock Playground,M270,0.003234596,6.3075E-07,-73.97545968,40.72544928
+Community Park,Dugan Playground,R026,0.005691476,1.4394E-06,-74.11083275,40.56143477
+Community Park,Dyker Beach Park,B028,0.052975364,9.08117E-05,-74.01892097,40.61128439
+Community Park,East River Park,M144,0.048313727,1.88173E-05,-73.97511446,40.71738191
+Community Park,Elmhurst Park,Q492,0.007318536,2.52887E-06,-73.88513128,40.72990879
+Community Park,Faber Pool and Park,R008,0.005619969,1.94064E-06,-74.13574614,40.64099421
+Community Park,Flushing Fields,Q086,0.009809209,3.13342E-06,-73.81666644,40.77464436
+Community Park,Fort Greene Park,B032,0.014814065,1.30233E-05,-73.97553026,40.69151408
+Community Park,Fort Tryon Park,M029,0.034223449,2.96674E-05,-73.93222364,40.86237214
+Community Park,Fort Washington Park,M028,0.256153773,4.88675E-05,-73.94215241,40.85130717
+Community Park,Four Winds Playground,Q024,0.002929462,5.7306E-07,-73.80828617,40.7424672
+Community Park,Frank Principe Park,Q131,0.008164835,3.22163E-06,-73.90475102,40.72746398
+Community Park,Franz Sigel Park,X047,0.015337857,6.95317E-06,-73.92561023,40.82329337
+Community Park,Friends Field,B372,0.007902399,2.81246E-06,-73.97289008,40.61872337
+Community Park,Gen. Douglas MacArthur Park,R067,0.007624913,2.20995E-06,-74.10024516,40.58658643
+Community Park,Glen Oaks Oval,Q310,0.004508971,1.47877E-06,-73.71561309,40.74952531
+Community Park,Greenstreet,MZ233,0.004348998,4.58648E-08,-73.96862172,40.80477787
+Community Park,GREENSTREET,BZ382,0.003042834,7.88218E-08,-73.93123097,40.58413262
+Community Park,Hamilton Fish Park,M033,0.005482968,1.80583E-06,-73.98083607,40.71979394
+Community Park,Harvey Park,Q089B,0.009071612,4.07076E-06,-73.82342962,40.78345261
+Community Park,Herbert Von King Park,B088,0.007843375,3.469E-06,-73.94662494,40.68967322
+Community Park,Highbridge Park,M037,0.090505107,5.74367E-05,-73.93060058,40.84631703
+Community Park,Highland Park,Q020,0.033015855,4.47479E-05,-73.88831531,40.68774205
+Community Park,Howard Playground,B260,0.003433894,4.64178E-07,-73.9081034,40.6717195
+Community Park,Howard Pool,B260A,0.002305311,2.74806E-07,-73.90893722,40.6727563
+Community Park,Inwood Hill Park,M042,0.066392888,8.28074E-05,-73.92582454,40.87230332
+Community Park,Isham Park,M043,0.015552013,4.45269E-06,-73.91899612,40.86962396
+Community Park,Jacob Joffe Fields,B324,0.005128215,1.33343E-06,-73.91936704,40.62534812
+Community Park,John Golden Park,Q012B,0.012392491,8.11785E-06,-73.76816795,40.7739976
+Community Park,John Jay Park,M045,0.005228523,1.44372E-06,-73.94948239,40.76923472
+Community Park,Joyce Kilmer Park,X028,0.007665819,2.73535E-06,-73.92266919,40.82852473
+Community Park,Judge Moses Weinstein Playground,Q336,0.005397863,1.5046E-06,-73.82058029,40.71802526
+Community Park,Juniper Valley Park,Q102,0.029536052,2.29304E-05,-73.88039757,40.72019
+Community Park,Kaiser Park,B129,0.019917656,1.11567E-05,-73.99587284,40.57916486
+Community Park,Kissena Corridor Park,Q300,0.062384673,4.57831E-05,-73.8234422,40.74825648
+Community Park,Kissena Corridor Park,Q300A,0.071450572,1.98691E-05,-73.78139973,40.74149745
+Community Park,Kissena Park,Q024,0.03847974,6.37402E-05,-73.80812598,40.74585047
+Community Park,Kissena Park Golf Course,Q024,0.026187844,3.88099E-05,-73.79934849,40.74451593
+Community Park,Lincoln Terrace / Arthur S. Somers Park,B054,0.02114348,8.66415E-06,-73.92695254,40.66679582
+Community Park,Lindower Park,B329,0.006793049,2.72528E-06,-73.91153042,40.61211067
+Community Park,Little Bay Park,Q010A,0.042561068,1.29261E-05,-73.7885259,40.78953049
+Community Park,Loreto Playground,X163,0.004252718,9.71745E-07,-73.85210848,40.84904988
+Community Park,Macombs Dam Park,X030,0.04869082,1.97979E-05,-73.92815565,40.82865287
+Community Park,Mafera Park,Q305,0.008215099,2.9679E-06,-73.8912259,40.70713774
+Community Park,Manhattan Beach Park,B251,0.022353749,1.71602E-05,-73.94299103,40.57669651
+Community Park,Marcus Garvey Park,M058,0.011736311,8.77139E-06,-73.94367112,40.80448318
+Community Park,Marcy Playground,B217,0.007194125,1.37347E-06,-73.95091159,40.69551628
+Community Park,Marine Park,B057,0.469674887,0.000289738,-73.92071664,40.59724997
+Community Park,McCarren Park,B058,0.037287467,1.56452E-05,-73.95181695,40.7208682
+Community Park,Montbellier Park,Q396,0.006610281,1.90581E-06,-73.75657302,40.67472572
+Community Park,Morningside Park,M056,0.023220797,1.28941E-05,-73.95838754,40.80577974
+Community Park,Mullaly Park,X034,0.014619013,6.46323E-06,-73.92419267,40.83275965
+Community Park,Nautilus Playground,Q210,0.005572171,1.59156E-06,-73.77063735,40.68489497
+Community Park,P.O. Reinaldo Salgado Playground,B224,0.005108338,9.76205E-07,-73.92584222,40.68791765
+Community Park,Paerdegat Park,B218,0.005720523,1.51356E-06,-73.93812788,40.6380438
+Community Park,"Phil """"Scooter"""" Rizzuto Park",Q129,0.006099494,2.27829E-06,-73.8215894,40.69479688
+Community Park,Playground,Q024,0.002831577,4.3423E-07,-73.80741944,40.74953229
+Community Park,Playground,Q448,0.001383543,1.13629E-07,-73.77041943,40.68571465
+Community Park,Playground 146,Q300,0.002308357,2.43899E-07,-73.82131469,40.74617507
+Community Park,Police Officer Edward Byrne Park,Q092,0.008607721,2.02538E-06,-73.80738647,40.66732642
+Community Park,Queensbridge Park,Q104,0.023996511,8.82374E-06,-73.94822216,40.75572667
+Community Park,Recreational Area,M140,0.011280046,9.73651E-07,-73.9512222,40.82989989
+Community Park,Red Hook Recreation Area,B126,0.047898418,1.99904E-05,-74.00572396,40.67186695
+Community Park,Riverside Park,M071,0.361704264,9.22916E-05,-73.97488738,40.79825301
+Community Park,Riverside Park,M140,0.030729391,7.38638E-06,-73.95204116,40.83065284
+Community Park,Rockaway Community Park,Q371,0.161683866,7.61933E-05,-73.78062629,40.60334366
+Community Park,Roy Wilkins Recreation Center,Q448,0.030286485,2.33264E-05,-73.77212272,40.68794129
+Community Park,Seton Park,X201,0.010223709,4.98738E-06,-73.91673393,40.88603719
+Community Park,Sheltering Arms Playground,M190,0.004937819,6.25606E-07,-73.95586341,40.81504125
+Community Park,Shore Park and Parkway,B082,0.219894437,3.84777E-05,-74.03685629,40.62608961
+Community Park,Shore Road Park and Parkway,B082,0.006397543,1.71987E-07,-74.03318053,40.64135737
+Community Park,Spring Creek Park,B371,0.051973604,1.86993E-05,-73.8716337,40.65197498
+Community Park,Springfield Park,Q107,0.03436496,9.681E-06,-73.76199171,40.66117438
+Community Park,St. Albans Park,Q051,0.01492551,4.95777E-06,-73.7793829,40.69297556
+Community Park,Steeplechase Park,B369,0.009257099,4.25335E-06,-73.98394983,40.5740467
+Community Park,Sunset Park,B087,0.014149004,1.05343E-05,-74.00374833,40.64797744
+Community Park,The High Line,M360,0.033161456,2.16325E-06,-74.00589363,40.74542289
+Community Park,Thomas Greene Playground,B145,0.004995966,1.11213E-06,-73.98535314,40.68031421
+Community Park,Thomas Jefferson Park,M047,0.010648077,5.89447E-06,-73.93553914,40.79321288
+Community Park,Tudor Park,Q094,0.02143075,5.60792E-06,-73.85226582,40.67265098
+Community Park,Wagner Houses Pool,M273,0.004566549,6.77977E-07,-73.93260588,40.80165952
+Community Park,Wingate Park,B126,0.007642637,2.46472E-06,-73.94420512,40.65856678
+Community Park,Wolfes Pond Park,R031,0.102931693,0.000112623,-74.19186282,40.52123591
+Flagship Park,Alley Pond Park,Q001,0.3492213,0.00025203,-73.74646024,40.75296396
+Flagship Park,Bronx Park,X002,0.196421967,0.000291973,-73.87574386,40.8565488
+Flagship Park,Buddy Monument,Q015,0.001106661,7.52252E-08,-73.84154561,40.70138164
+Flagship Park,Central Park,M010,0.103646354,0.000366552,-73.96556967,40.78242626
+Flagship Park,Crotona Park,X010,0.066441387,5.64065E-05,-73.89493215,40.83860736
+Flagship Park,Cunningham Park,Q021,0.204966605,0.0001743,-73.76839322,40.7336408
+Flagship Park,Dry Harbor Playground,Q015,0.005505044,1.26948E-06,-73.86781358,40.70253583
+Flagship Park,Ferry Point Park,X126,0.085578478,0.000137608,-73.83250905,40.81366421
+Flagship Park,Flushing Meadows Corona Park,Q099,1.150207884,0.000274839,-73.84188026,40.74306727
+Flagship Park,Forest Park,Q015,0.288592425,0.000162143,-73.84951571,40.70283154
+Flagship Park,Greenbelt Native Plant Center,R017A,0.015909235,6.37252E-06,-74.18127721,40.59622495
+Flagship Park,Highland Park,B047,0.027120867,1.93151E-05,-73.88671197,40.68495879
+Flagship Park,LaTourette Park & Golf Course,R013,0.120709627,0.000376567,-74.15093079,40.57657386
+Flagship Park,Pelham Bay Park,X039,0.670812251,0.000848857,-73.80708825,40.86910054
+Flagship Park,Prospect Park,B073,0.059533664,0.000204826,-73.96966079,40.66135428
+Flagship Park,Randall's Island Park,M104,0.121396498,8.87424E-05,-73.92168777,40.79573236
+Flagship Park,Soundview Park,X118,0.067654051,7.01319E-05,-73.87036338,40.81556119
+Flagship Park,Van Cortlandt Park,X092,0.345144116,0.000466423,-73.88662291,40.8971453
+Jointly Operated Playground,100% Playground,B342,0.003478819,6.75033E-07,-73.89914404,40.64644844
+Jointly Operated Playground,ABC Playground,M116,0.001908773,1.93146E-07,-73.98603131,40.72178771
+Jointly Operated Playground,Admiral Park,Q338,0.002841466,3.33508E-07,-73.73784363,40.77101139
+Jointly Operated Playground,Aesop Playground,R027A,0.00307203,3.89111E-07,-74.22987004,40.50955314
+Jointly Operated Playground,Agnes Haywood Playground,X169,0.003204023,5.62847E-07,-73.861813,40.88029749
+Jointly Operated Playground,Albemarle Playground,B297,0.002737643,3.54215E-07,-73.9806048,40.64581405
+Jointly Operated Playground,Albert J. Parham Playground,B253,0.00341806,5.57929E-07,-73.97077754,40.69036896
+Jointly Operated Playground,Allerton Playground,X172,0.00328147,6.77326E-07,-73.85052127,40.865997
+Jointly Operated Playground,Alley Park,Q356,0.006657142,1.06286E-06,-73.74488979,40.74740037
+Jointly Operated Playground,Almeda Playground,Q443,0.004224965,5.69864E-07,-73.79465043,40.59351941
+Jointly Operated Playground,Ampere Playground,Q378,0.005254368,5.71873E-07,-73.85695644,40.68184551
+Jointly Operated Playground,Andries Playground,B287,0.002682836,3.64923E-07,-73.94644655,40.62276295
+Jointly Operated Playground,Anibal Aviles Playground,M200A,0.002182446,2.33202E-07,-73.9628371,40.80117965
+Jointly Operated Playground,Annadale Playground,Q319,0.002751733,4.58081E-07,-73.85181415,40.73113779
+Jointly Operated Playground,Arcilla Playground,X219,0.003323217,6.20987E-07,-73.91431571,40.82710505
+Jointly Operated Playground,Arrochar Playground,R062,0.002673788,3.74114E-07,-74.07094169,40.59774523
+Jointly Operated Playground,Astoria Heights Playground,Q014,0.004574241,1.02549E-06,-73.91173287,40.76043228
+Jointly Operated Playground,Athens Square,Q436,0.003682495,4.71743E-07,-73.92236999,40.76783653
+Jointly Operated Playground,Auburndale Playground,Q397,0.002772582,4.16667E-07,-73.7943139,40.76579034
+Jointly Operated Playground,Audubon Playground,M240,0.002315015,2.84728E-07,-73.9381095,40.84152997
+Jointly Operated Playground,Augustus St. Gaudens Playground,M226,0.002125164,2.10454E-07,-73.98214489,40.7355462
+Jointly Operated Playground,Banneker Playground,B140,0.00403126,5.43055E-07,-73.94896231,40.6904525
+Jointly Operated Playground,Bartlett Playground,B286,0.002572992,3.94204E-07,-73.94604229,40.70091373
+Jointly Operated Playground,Bath Playground,B349,0.005665417,1.50563E-06,-73.99356709,40.5946458
+Jointly Operated Playground,Bay Terrace Playground,Q399,0.002769576,4.29602E-07,-73.77761832,40.78236703
+Jointly Operated Playground,Bayside Playground,Q389,0.003232565,5.36857E-07,-73.82513547,40.58486253
+Jointly Operated Playground,Bayview Playground,B274,0.004223464,6.88438E-07,-73.88692252,40.63492462
+Jointly Operated Playground,Beach channel Playground,Q403,0.00314359,4.51934E-07,-73.80584424,40.58891459
+Jointly Operated Playground,Bellaire Playground,Q322,0.00274644,4.08105E-07,-73.7580219,40.72150202
+Jointly Operated Playground,Bellerose Playground,Q328,0.002676585,4.34211E-07,-73.71794676,40.73278709
+Jointly Operated Playground,Belmont Playground,B283,0.00307184,5.2024E-07,-73.86287132,40.6757106
+Jointly Operated Playground,Benson Playground,B277,0.002880022,4.09064E-07,-74.00225879,40.60243267
+Jointly Operated Playground,Bergen Beach Playground,B353,0.002686721,4.0451E-07,-73.90955698,40.62240822
+Jointly Operated Playground,Bildersee Playground,B335,0.004427986,6.10719E-07,-73.91164438,40.63566405
+Jointly Operated Playground,Black Rock Playground,X205,0.001683543,1.47702E-07,-73.85797196,40.82840142
+Jointly Operated Playground,Bloomingdale Playground,M238,0.002743787,3.0738E-07,-73.96598956,40.79917599
+Jointly Operated Playground,Booker T. Washington Playground,M200,0.003684351,5.88431E-07,-73.96376469,40.8009488
+Jointly Operated Playground,Bowne Playground,Q308,0.00327872,5.84106E-07,-73.82482017,40.75820322
+Jointly Operated Playground,Briarwood Playground,Q379,0.005274191,7.64509E-07,-73.81116522,40.71035658
+Jointly Operated Playground,Bruckner Playground,X183,0.003158181,4.44053E-07,-73.828582,40.82677243
+Jointly Operated Playground,Burns Playground,X232,0.003693234,7.41211E-07,-73.83658843,40.86326386
+Jointly Operated Playground,Bushwick Playground,B017,0.005337306,1.24983E-06,-73.91213862,40.69599684
+Jointly Operated Playground,Captain John R Fischer Firefighter Michael C Fiore,R051,0.003227242,4.37258E-07,-74.10755791,40.62811797
+Jointly Operated Playground,Cardozo Playground,Q382,0.004093424,9.35415E-07,-73.7865706,40.59323554
+Jointly Operated Playground,Carver Playground,B347,0.002741123,4.54891E-07,-73.92055566,40.68029702
+Jointly Operated Playground,Caserta Playground,X160,0.002722855,3.79259E-07,-73.85403439,40.83733394
+Jointly Operated Playground,Castle Hill Playground,X177,0.003676165,6.17374E-07,-73.85322514,40.83926236
+Jointly Operated Playground,Castlewood Playground,Q327,0.005216853,8.48138E-07,-73.72176065,40.74951474
+Jointly Operated Playground,Cedar Grove Playground,Q376,0.008079706,2.33949E-06,-73.82351635,40.73687784
+Jointly Operated Playground,Century Playground,B337,0.005674198,9.87657E-07,-73.97037996,40.57702422
+Jointly Operated Playground,Challenge Playground,Q346,0.00503813,1.18515E-06,-73.72800123,40.75656175
+Jointly Operated Playground,Chester Playground,B362,0.003460665,5.48364E-07,-73.91184575,40.6686962
+Jointly Operated Playground,Chiarantano Playground,B375,0.001212155,9.10719E-08,-73.93337402,40.63693081
+Jointly Operated Playground,City Line Park,B141,0.013012167,2.98327E-06,-73.87485427,40.67951307
+Jointly Operated Playground,Clark Playground,X200,0.002785258,3.24437E-07,-73.92127883,40.81370607
+Jointly Operated Playground,Classon Playground,B293,0.003304019,6.16559E-07,-73.96057078,40.68943291
+Jointly Operated Playground,Clawson Playground,R072,0.006867835,1.5447E-06,-74.12380719,40.56061345
+Jointly Operated Playground,Clintonville Playground,Q390,0.005235534,8.17717E-07,-73.80752221,40.78321614
+Jointly Operated Playground,Colden Playground,Q347,0.003311597,6.42648E-07,-73.82724364,40.77024738
+Jointly Operated Playground,Conch Playground,Q394,0.004355199,9.74352E-07,-73.7807174,40.59600085
+Jointly Operated Playground,Davis Playground,R086,0.003242376,3.99809E-07,-74.08561003,40.64229562
+Jointly Operated Playground,Dawson Playground,X164,0.001523785,1.37772E-07,-73.89825334,40.81952952
+Jointly Operated Playground,De Hostos Playground,B358,0.002587197,3.94086E-07,-73.94931883,40.70268461
+Jointly Operated Playground,Decatur Playground,B215,0.002560958,3.63346E-07,-73.9365533,40.68144852
+Jointly Operated Playground,Delphin H. Greene Playground,Q307,0.005842388,1.40282E-06,-73.72900063,40.68507612
+Jointly Operated Playground,Detective William T. Gunn Park,Q358,0.005887964,1.18877E-06,-73.73178153,40.73186001
+Jointly Operated Playground,Dongan Playground,R087,0.005039505,6.62202E-07,-74.0893806,40.58268396
+Jointly Operated Playground,Dr. Green Playground,B228,0.004578197,7.80468E-07,-73.9070558,40.66720271
+Jointly Operated Playground,Dunbar Playground,X185,0.00299921,5.54274E-07,-73.90644776,40.82300239
+Jointly Operated Playground,Dutch Kills Playground,Q218,0.005445716,1.18463E-06,-73.93323897,40.75723148
+Jointly Operated Playground,East Elmhurst Playground,Q373,0.00621087,1.85295E-06,-73.87081696,40.76557358
+Jointly Operated Playground,East River Playground,M258,0.00306077,5.72873E-07,-73.93820725,40.78933054
+Jointly Operated Playground,East Springfield Playground,Q404,0.003350792,4.8219E-07,-73.74000494,40.6984269
+Jointly Operated Playground,Edenwald Playground,X165,0.006102793,1.00383E-06,-73.84500135,40.88435491
+Jointly Operated Playground,Edmonds Playground,B321,0.002818949,4.04807E-07,-73.97153424,40.68918173
+Jointly Operated Playground,El Shabazz Playground,B313,0.003675871,4.18568E-07,-73.93044757,40.6827897
+Jointly Operated Playground,Eleanor Roosevelt Playground,B359,0.003459344,5.10472E-07,-73.93557825,40.69276762
+Jointly Operated Playground,Emerald Playground,Q344,0.003307535,5.35187E-07,-73.80595971,40.73101579
+Jointly Operated Playground,Ericsson Playground,B346,0.003790503,4.98787E-07,-73.94822084,40.72032699
+Jointly Operated Playground,Ethan Allen Playground,B345,0.002904486,4.29944E-07,-73.88693562,40.65570977
+Jointly Operated Playground,Eugene McCabe Field,M243,0.002306814,3.24169E-07,-73.94162042,40.80238939
+Jointly Operated Playground,Evergreen Park,Q302,0.006719297,1.16384E-06,-73.89665184,40.69761366
+Jointly Operated Playground,Evergreen Playground,B332,0.002592233,3.80685E-07,-73.91075591,40.68611253
+Jointly Operated Playground,Farm Playground,Q221,0.005515491,1.63283E-06,-73.77734434,40.73575477
+Jointly Operated Playground,Fermi Playground,B334,0.003855821,4.71663E-07,-73.92831219,40.70059387
+Jointly Operated Playground,Fish Playground,B325,0.004170241,5.01651E-07,-73.91472731,40.67820671
+Jointly Operated Playground,Fountain Of Youth Playground,X233,0.003585346,5.19124E-07,-73.90526572,40.81399826
+Jointly Operated Playground,Fox Playground,B248,0.004820501,1.04849E-06,-73.92392308,40.63231932
+Jointly Operated Playground,Francis Lewis Playground,Q381,0.003383062,5.32859E-07,-73.78401431,40.76043081
+Jointly Operated Playground,Fresh Meadows Playground,Q314,0.00305321,5.81924E-07,-73.79618153,40.73411089
+Jointly Operated Playground,Garden Playground,B340,0.003062323,3.97073E-07,-73.93831543,40.70109375
+Jointly Operated Playground,Gonzalo Plasencia Playground,B210I,0.003421415,5.4627E-07,-74.00842566,40.65258568
+Jointly Operated Playground,Governor Smith Playground,X210,0.007365618,1.9305E-06,-73.92080578,40.81935373
+Jointly Operated Playground,Grace Playground,B078,0.004941501,1.20481E-06,-73.89444017,40.67137611
+Jointly Operated Playground,Grady Playground,B275,0.00517267,1.49995E-06,-73.96472365,40.58306094
+Jointly Operated Playground,Grassmere Playground,Q353,0.004285599,6.23846E-07,-73.7589187,40.5993689
+Jointly Operated Playground,Great Kills Park,R071,0.002982795,4.63903E-07,-74.15179633,40.54703474
+Jointly Operated Playground,Greencroft Playground,R089,0.005101195,1.44502E-06,-74.13645106,40.5517929
+Jointly Operated Playground,Greene Playground,B301,0.003504636,6.21137E-07,-73.96591942,40.68620409
+Jointly Operated Playground,Grove Hill Playground,X235,0.002957377,5.30645E-07,-73.90885224,40.81986235
+Jointly Operated Playground,Gutenberg Playground,M221,0.002248906,2.66467E-07,-73.99016694,40.76346512
+Jointly Operated Playground,Happy Warrior Playground,M229,0.006441787,7.05758E-07,-73.96860134,40.79543608
+Jointly Operated Playground,Harold Schneiderman Playground,Q408,0.003589575,5.26101E-07,-73.85046865,40.66510707
+Jointly Operated Playground,Hart Playground,Q419,0.003882082,3.6965E-07,-73.81894642,40.77402469
+Jointly Operated Playground,Hattie Carthan Playground,B323,0.003045132,5.41158E-07,-73.94613352,40.68560117
+Jointly Operated Playground,Haviland Playground,X208,0.002466026,3.44416E-07,-73.85861815,40.82903899
+Jointly Operated Playground,Henry M. Jackson Playground,M228,0.002530806,2.46622E-07,-73.98150678,40.71397767
+Jointly Operated Playground,Hickman Playground,B330,0.006107211,1.13178E-06,-73.91298996,40.62029462
+Jointly Operated Playground,Hillside Park,Q352,0.003423776,4.8405E-07,-73.71318168,40.74099933
+Jointly Operated Playground,Hilton White Playground,X112,0.001807704,1.91323E-07,-73.90735808,40.82286776
+Jointly Operated Playground,Hollis Playground,Q405,0.002653052,4.30102E-07,-73.75311202,40.70648308
+Jointly Operated Playground,Holy Cow Playground,Q300A1,0.007054442,1.10394E-06,-73.77699641,40.74149701
+Jointly Operated Playground,Horace Harding Playground,Q428,0.002579069,4.08171E-07,-73.86053686,40.73325619
+Jointly Operated Playground,Houston Playground,B363,0.002571102,4.03623E-07,-73.90506747,40.6722054
+Jointly Operated Playground,Howard Bennett Playground,M217,0.003463968,6.20918E-07,-73.93870703,40.81367957
+Jointly Operated Playground,Hunts Point Playground,X113,0.002340386,3.16726E-07,-73.88597602,40.81412889
+Jointly Operated Playground,I-Am-Park,X228,0.002272891,3.15744E-07,-73.91022057,40.81130067
+Jointly Operated Playground,Jackie Robinson Park,B294,0.003667564,6.91364E-07,-73.92781369,40.68021396
+Jointly Operated Playground,Jackie Robinson Playground,B357,0.002639302,4.28145E-07,-73.95922918,40.66579211
+Jointly Operated Playground,Jacob H. Schiff Playground,M223,0.005245961,1.66868E-06,-73.95202467,40.82050738
+Jointly Operated Playground,James Weldon Johnson Playground,M111,0.003988869,4.45458E-07,-73.94187095,40.79717417
+Jointly Operated Playground,Jerome Playground,B246,0.002819903,3.72921E-07,-73.87950903,40.65886742
+Jointly Operated Playground,Jesse Owens Playground,B269,0.007711753,1.35672E-06,-73.93221498,40.69137665
+Jointly Operated Playground,John Adams Playground,Q285,0.002066807,2.14707E-07,-73.83552822,40.67728138
+Jointly Operated Playground,John Hancock Playground,B237,0.004670443,7.00322E-07,-73.95454362,40.68234353
+Jointly Operated Playground,Joseph Austin Playground,Q391,0.005359513,1.60703E-06,-73.80075233,40.71586845
+Jointly Operated Playground,Kelly Park,B157,0.003981932,6.46101E-07,-73.9564723,40.60438627
+Jointly Operated Playground,Kennedy King Playground,B304,0.002426918,3.52835E-07,-73.92203551,40.65860668
+Jointly Operated Playground,Lafayette Playground,B106B,0.003436781,5.62737E-07,-73.98528692,40.59451551
+Jointly Operated Playground,Lannett Playground,Q407,0.003920301,5.1422E-07,-73.74398254,40.59950222
+Jointly Operated Playground,Latimer Playground,Q402,0.003068377,4.60509E-07,-73.7862502,40.69651768
+Jointly Operated Playground,Lieutenant John H. Martinson Playground,R090,0.003288514,5.78564E-07,-74.1626455,40.53686701
+Jointly Operated Playground,Linden Park,B214,0.008812762,4.14688E-06,-73.88697359,40.65896886
+Jointly Operated Playground,Locust Manor Playground,Q330,0.004633358,8.3256E-07,-73.75634059,40.68599022
+Jointly Operated Playground,Louis Armstrong Playground,Q415,0.005190624,1.46031E-06,-73.85572687,40.75540162
+Jointly Operated Playground,Louis Pasteur Park,Q369,0.004704707,1.34539E-06,-73.73535847,40.7620338
+Jointly Operated Playground,Lozada Playground,X131,0.002902036,4.40768E-07,-73.92497432,40.80794837
+Jointly Operated Playground,Magenta Playground,X214,0.002610434,3.78325E-07,-73.86787171,40.87374499
+Jointly Operated Playground,Mapes Pool,X236,0.002595972,2.86654E-07,-73.88631764,40.84660291
+Jointly Operated Playground,Marc And Jason's Playground,B284,0.004128169,5.82546E-07,-73.94953247,40.66352539
+Jointly Operated Playground,Marie Curie Park,Q364,0.005374188,1.15711E-06,-73.77176017,40.75694471
+Jointly Operated Playground,Markham Playground,R076,0.007668187,1.26095E-06,-74.1458852,40.62349991
+Jointly Operated Playground,Martinez Playground,B127,0.001804383,9.58443E-08,-73.94461788,40.70909058
+Jointly Operated Playground,Marx Brothers Playground,M187,0.003327407,6.17576E-07,-73.94615713,40.78432241
+Jointly Operated Playground,McKinley Playground,M259,0.002029052,2.39677E-07,-73.98578301,40.72425099
+Jointly Operated Playground,Midland Field,R038A,0.008715259,3.21267E-06,-74.0986059,40.57615634
+Jointly Operated Playground,Midland Playground,R038,0.004230095,7.17596E-07,-74.09880608,40.57488376
+Jointly Operated Playground,Moore Playground,M204,0.002368405,3.41267E-07,-73.93850785,40.80938168
+Jointly Operated Playground,Morgan Playground,X206,0.002887509,3.40041E-07,-73.90742961,40.83227398
+Jointly Operated Playground,Mott Playground,X115,0.003210454,6.09779E-07,-73.91465738,40.83142469
+Jointly Operated Playground,Murray Hill Playground,Q437,0.003176083,6.13899E-07,-73.81185546,40.7616564
+Jointly Operated Playground,Naples Playground,R073,0.005971693,2.03572E-06,-74.09025124,40.60255492
+Jointly Operated Playground,Nathan Straus Playground,M241,0.003746179,3.75611E-07,-73.98409575,40.71935837
+Jointly Operated Playground,Neptune Playground,B331,0.004335091,5.10302E-07,-73.98063254,40.57824436
+Jointly Operated Playground,Newport Playground,B339,0.002512802,3.82979E-07,-73.90703235,40.66085725
+Jointly Operated Playground,North Rochdale Playground,Q426,0.003108621,4.41918E-07,-73.77502902,40.67995332
+Jointly Operated Playground,Northern Playground,Q363,0.003471156,7.35877E-07,-73.87455923,40.75604738
+Jointly Operated Playground,Nostrand Playground,B250,0.005492716,1.33931E-06,-73.94706548,40.63810528
+Jointly Operated Playground,Oakland Gardens,Q400,0.004244114,6.76598E-07,-73.75966942,40.75358428
+Jointly Operated Playground,Ocean Hill Playground,B144,0.003594593,7.29736E-07,-73.91218444,40.67441254
+Jointly Operated Playground,Old Town Playground,R063,0.003256809,6.45934E-07,-74.0813767,40.59540108
+Jointly Operated Playground,Open Road Park,M321,0.002424594,3.53622E-07,-73.98302607,40.72938481
+Jointly Operated Playground,Oracle Playground,B300,0.002294237,2.96561E-07,-73.97151452,40.69392394
+Jointly Operated Playground,Osborn Playground,B343,0.006884077,1.20308E-06,-73.90607244,40.65562759
+Jointly Operated Playground,Oxport Playground,B295,0.003186312,4.53614E-07,-73.97627965,40.69760576
+Jointly Operated Playground,P.S. 125 Playground,B227,0.001779759,1.04028E-07,-73.90906421,40.66513647
+Jointly Operated Playground,P.S. 155 Playground,M239,0.002440689,3.61744E-07,-73.93544507,40.79731804
+Jointly Operated Playground,P.S. 279 Playground,B305,0.004961919,3.8567E-07,-73.89308067,40.64429769
+Jointly Operated Playground,Park Slope Playground,B320,0.003121023,4.77958E-07,-73.97851566,40.676828
+Jointly Operated Playground,Parkside Playground,B267,0.004239493,5.43653E-07,-73.95436432,40.65657166
+Jointly Operated Playground,Patrick O'Rourke Park,B282,0.003445948,5.23819E-07,-74.0139934,40.61914473
+Jointly Operated Playground,Patterson Playground,X155,0.005643276,1.2181E-06,-73.9223581,40.81581477
+Jointly Operated Playground,Pena Herrera Park,B210J,0.002923318,3.74185E-07,-74.01204174,40.64929443
+Jointly Operated Playground,Peter's Field,M227,0.002587664,3.97316E-07,-73.98158037,40.73610929
+Jointly Operated Playground,Peter Minuit Playground,M183,0.002486246,3.75874E-07,-73.94722853,40.79476064
+Jointly Operated Playground,Pinocchio Playground,Q289,0.003674067,4.54459E-07,-73.87529285,40.70555731
+Jointly Operated Playground,Playground 52 LII,X179,0.005337568,7.78267E-07,-73.90167909,40.81516388
+Jointly Operated Playground,Playground Eighty LXXX,Q318,0.00331973,6.1944E-07,-73.70955044,40.74465898
+Jointly Operated Playground,Playground Eighty Nine LXXXIX,M264,0.001821507,1.79608E-07,-73.97189144,40.78864197
+Jointly Operated Playground,Playground Ninety,Q362,0.002974672,5.4896E-07,-73.87859614,40.75732176
+Jointly Operated Playground,Playground One,M196,0.001947684,1.96971E-07,-73.99739686,40.71226963
+Jointly Operated Playground,Playground One Twenty Five CXXV,M205,0.004827851,6.67491E-07,-73.95553074,40.8107913
+Jointly Operated Playground,Playground Seventy,M233,0.002937655,3.90822E-07,-73.98395075,40.7773643
+Jointly Operated Playground,Playground Seventy Five,Q354,0.002659226,3.48344E-07,-73.80820648,40.72639058
+Jointly Operated Playground,Playground Sixty Two LXII,Q377,0.004176202,6.74038E-07,-73.85298589,40.73615842
+Jointly Operated Playground,Playground Twenty One,Q334,0.003499123,6.27093E-07,-73.79851371,40.7782794
+Jointly Operated Playground,Pomonok Playground,Q329,0.005222763,1.52252E-06,-73.81393407,40.73610036
+Jointly Operated Playground,Pontiac Playground,X207,0.002608805,3.88553E-07,-73.90822489,40.81424428
+Jointly Operated Playground,Poor Richard's Playground,M230,0.005593327,6.94011E-07,-73.94283076,40.79266145
+Jointly Operated Playground,Potomac Playground,B262,0.003234121,5.89868E-07,-73.94430308,40.68206048
+Jointly Operated Playground,Prall Playground,R105,0.00370299,5.81414E-07,-74.11814545,40.62860488
+Jointly Operated Playground,Prescott Playground,R085,0.002988961,4.90724E-07,-74.18609419,40.52260645
+Jointly Operated Playground,Prospect Playground,X148H1,0.003319963,6.28209E-07,-73.89072014,40.84326999
+Jointly Operated Playground,Pulaski Playground,B322,0.003341269,6.09848E-07,-73.9417053,40.69360895
+Jointly Operated Playground,Queens Valley Playground,Q212,0.002727251,4.27577E-07,-73.82372988,40.72186746
+Jointly Operated Playground,Raymond Bush Playground,B216,0.00419984,8.52336E-07,-73.93962646,40.6863531
+Jointly Operated Playground,Remsen Playground,B360,0.003267414,5.19714E-07,-73.90735485,40.6422995
+Jointly Operated Playground,Renaissance Playground,M245,0.003765679,5.67152E-07,-73.94152914,40.821343
+Jointly Operated Playground,Rienzi Playground,X141,0.002969999,5.36609E-07,-73.85857027,40.88761672
+Jointly Operated Playground,Riverbend Playground,X175,0.004632537,2.98218E-07,-73.90580207,40.87212097
+Jointly Operated Playground,Riverdale Playground,X186,0.005384538,1.23395E-06,-73.91492906,40.88773027
+Jointly Operated Playground,Rochdale Park,Q413,0.010269276,4.04861E-06,-73.77440673,40.67468892
+Jointly Operated Playground,Rocket Park,Q414,0.004582317,5.21944E-07,-73.8462774,40.6706743
+Jointly Operated Playground,Roebling Playground,B264,0.004136222,5.55115E-07,-73.96173034,40.70635499
+Jointly Operated Playground,Rosemary's Playground,Q398,0.003986973,8.63919E-07,-73.90394685,40.70474631
+Jointly Operated Playground,Russell Pedersen Playground,B192,0.003536483,5.98568E-07,-74.03615453,40.62637314
+Jointly Operated Playground,Russell Sage Playground,Q335,0.003466845,7.32204E-07,-73.8514619,40.72377416
+Jointly Operated Playground,Samuel Seabury Playground,M236,0.002311273,3.28936E-07,-73.95081299,40.78535082
+Jointly Operated Playground,Saratoga Ballfields,B387,0.002820984,4.85955E-07,-73.91434563,40.67532658
+Jointly Operated Playground,Saul Weprin Playground,Q293,0.003422989,7.09595E-07,-73.77641032,40.74805655
+Jointly Operated Playground,Saw Mill Playground,X238,0.002528699,3.84429E-07,-73.91937422,40.80890957
+Jointly Operated Playground,Seaside Playground,Q422,0.004149017,4.90515E-07,-73.83084002,40.58086019
+Jointly Operated Playground,Seven Gables Playground,Q021C,0.003157511,5.7288E-07,-73.76636136,40.74415853
+Jointly Operated Playground,Sheepshead Playground,B239,0.004266191,8.67335E-07,-73.94018144,40.58880539
+Jointly Operated Playground,Sidney Hillman Playground,M195,0.001392781,1.08525E-07,-73.97965851,40.7152201
+Jointly Operated Playground,Slope Park,B288,0.00231056,3.14554E-07,-73.98944383,40.6612312
+Jointly Operated Playground,Sol Bloom Playground,M244,0.002466127,3.69359E-07,-73.96878307,40.78963522
+Jointly Operated Playground,Sol Lain Playground,M235,0.002543463,3.73706E-07,-73.98389904,40.71424276
+Jointly Operated Playground,South Rochdale Playground,Q427,0.003516201,4.07178E-07,-73.76907295,40.67386036
+Jointly Operated Playground,Space Time Playground,X221,0.002974318,5.41021E-07,-73.85985562,40.82233349
+Jointly Operated Playground,Sperandeo Brothers Playground,B163,0.00620846,1.32739E-06,-73.8844219,40.67711057
+Jointly Operated Playground,Spirit Playground,Q429,0.002755366,3.70718E-07,-73.94147089,40.76122229
+Jointly Operated Playground,Springfield Park North,Q406,0.002707636,4.45026E-07,-73.75974669,40.66410964
+Jointly Operated Playground,Spuyten Duyvil Playground,X171,0.00477724,7.25666E-07,-73.91587673,40.8870518
+Jointly Operated Playground,Stapleton Playground,R061,0.005516515,1.8138E-06,-74.07965148,40.62324821
+Jointly Operated Playground,Star Spangled Playground,B266,0.003860806,7.37522E-07,-73.95797548,40.6919115
+Jointly Operated Playground,Stars & Stripes Playground,X193,0.005258071,1.18349E-06,-73.83957279,40.88540878
+Jointly Operated Playground,Stebbins Playground,X211,0.002470274,3.82514E-07,-73.89850778,40.82277616
+Jointly Operated Playground,Steinway Playground,Q395,0.003033586,3.78359E-07,-73.9034693,40.77653322
+Jointly Operated Playground,Stockton Playground,B298,0.003453344,4.77011E-07,-73.94866002,40.69728513
+Jointly Operated Playground,Story Playground,X204,0.004060103,9.57933E-07,-73.86284209,40.82290833
+Jointly Operated Playground,Stroud Playground,B350,0.004151475,5.86564E-07,-73.96187557,40.67494096
+Jointly Operated Playground,Sumner Playground,B263,0.005047581,8.72775E-07,-73.94275519,40.69728705
+Jointly Operated Playground,Sunrise Playground,Q430,0.002809248,4.85136E-07,-73.7363428,40.6526609
+Jointly Operated Playground,Surf Playground,B315,0.002947879,4.07494E-07,-73.99235492,40.57370872
+Jointly Operated Playground,Tall Oak Playground,Q317,0.003406893,6.67991E-07,-73.75819298,40.74609668
+Jointly Operated Playground,Taylor Playground,X176,0.002817506,3.92558E-07,-73.86609558,40.83898254
+Jointly Operated Playground,Tecumseh Playground,M219,0.002692714,3.5907E-07,-73.97851369,40.78180724
+Jointly Operated Playground,Telephone Playground,Q349,0.002850769,5.00646E-07,-73.75659364,40.73846769
+Jointly Operated Playground,Ten Eyck Playground,B311,0.002857033,4.63954E-07,-73.93881933,40.70886436
+Jointly Operated Playground,Terrace Playground,R069,0.004659947,8.36899E-07,-74.098586,40.6136639
+Jointly Operated Playground,The Painter's Playground,Q306,0.00408617,8.28941E-07,-73.86009809,40.72053925
+Jointly Operated Playground,Tiffany Playground,X190,0.003461275,5.13877E-07,-73.89436106,40.82483998
+Jointly Operated Playground,Tiger Playground,B307,0.002869876,4.95957E-07,-73.91096952,40.68826191
+Jointly Operated Playground,Van Alst Playground,Q321,0.003376752,4.45762E-07,-73.92827538,40.77058768
+Jointly Operated Playground,Vinmont Veteran Park,X152,0.005133905,1.37489E-06,-73.90495536,40.90246003
+Jointly Operated Playground,Vleigh Playground,Q320,0.004842774,9.70685E-07,-73.81650578,40.72982883
+Jointly Operated Playground,Wagner Playground,M225,0.002909636,5.53235E-07,-73.93490731,40.79976269
+Jointly Operated Playground,Wakefield Playground,X188,0.002509447,3.79694E-07,-73.85463142,40.90178805
+Jointly Operated Playground,Wald Playground,M201,0.001927915,2.30895E-07,-73.97688096,40.71969484
+Jointly Operated Playground,Walter Ward Playground,Q421,0.00446921,1.09771E-06,-73.84387226,40.65772547
+Jointly Operated Playground,Washington Park,B111A,0.004233573,7.00146E-07,-73.98557975,40.67271583
+Jointly Operated Playground,Wayanda Park,Q082,0.005169321,1.35526E-06,-73.73885708,40.71075131
+Jointly Operated Playground,Westbourne Playground,Q266,0.00503435,7.87269E-07,-73.76447862,40.60802357
+Jointly Operated Playground,Whitestone Playground,Q343,0.003809141,7.49364E-07,-73.80847049,40.79199006
+Jointly Operated Playground,Willets Point Playground,Q375,0.003251719,4.81078E-07,-73.79640099,40.78379558
+Jointly Operated Playground,William Sheridan Playground,B124,0.002867995,4.98024E-07,-73.96416626,40.71522324
+Jointly Operated Playground,Willis Playground,X217,0.005656442,8.1512E-07,-73.92296469,40.81093856
+Jointly Operated Playground,Willoughby Playground,B348,0.003093078,4.10277E-07,-73.94681699,40.69447086
+Jointly Operated Playground,Willow Lake Playground,Q348,0.003074757,4.14919E-07,-73.83713918,40.72262285
+Jointly Operated Playground,Wilson Playground,B279,0.004602878,7.45149E-07,-73.89485794,40.64267509
+Jointly Operated Playground,Wingate Park,B254,0.017654158,9.79311E-07,-73.9440404,40.65843767
+Jointly Operated Playground,Woodruff Playground,B312,0.002550246,2.32904E-07,-73.86601597,40.66539139
+Jointly Operated Playground,Woods Playground,B364,0.003472069,6.29771E-07,-73.9289665,40.67453507
+Jointly Operated Playground,Wright Brothers Playground,M234,0.002353042,2.5388E-07,-73.9417529,40.83167321
+Jointly Operated Playground,Yak Playground,B308,0.003883914,2.11374E-07,-73.93647464,40.59227475
+Nature Area,Allison Pond Park,R052,0.011923895,4.08516E-06,-74.10131861,40.63709994
+Nature Area,Arbutus Woods Park,R133,0.004805337,1.3933E-06,-74.18527575,40.52864614
+Nature Area,Arden Woods,R120,0.048070996,8.23466E-05,-74.19067565,40.5579425
+Nature Area,Bayview Terrace Park,R137,0.010579301,8.37807E-07,-74.1641302,40.52643336
+Nature Area,Bennett Rest,M091,0.01228227,2.77028E-06,-73.93737902,40.8574225
+Nature Area,Blood Root Valley,R129,0.079920444,6.83081E-05,-74.13394939,40.58927807
+Nature Area,Blue Heron Park,R119,0.162461599,0.000103674,-74.17462949,40.53225017
+Nature Area,Bradys Pond Park,R075G,0.00968442,2.10942E-06,-74.07889698,40.60514542
+Nature Area,Broad Channel Wetlands,Q478,0.020220159,6.78725E-06,-73.82206459,40.61143963
+Nature Area,Bunker Ponds Park,R132,0.02630002,1.3601E-05,-74.18275243,40.52359561
+Nature Area,Carlton Park,R152,0.003447947,5.40717E-07,-74.18448915,40.55188258
+Nature Area,City Island Wetlands,X279,0.001599421,7.88833E-08,-73.79040857,40.84904259
+Nature Area,Conference House Park,R006,0.104702484,6.78652E-05,-74.2436139,40.50097804
+Nature Area,Crescent Beach Park,R135,0.039551528,8.47646E-06,-74.14902449,40.53451807
+Nature Area,Deere Park,R115,0.029547798,1.88592E-05,-74.10907735,40.60611774
+Nature Area,Dubos Point Wildlife Sanctuary,Q459,0.02213891,1.07804E-05,-73.79051265,40.60037271
+Nature Area,Eibs Pond Park,R124,0.018182822,7.31109E-06,-74.08108307,40.61116141
+Nature Area,Fairview Park,R153,0.031699217,1.95702E-05,-74.23000922,40.53190961
+Nature Area,Forest Grove,R050,0.002023005,1.99065E-07,-74.17400179,40.62710387
+Nature Area,Fort Hill Park,R158,0.002901343,3.56012E-07,-74.08172548,40.64109354
+Nature Area,Fort Totten Park,Q458,0.078438689,2.70798E-05,-73.77785645,40.79300196
+Nature Area,Four Sparrow Marsh,B394,0.042508271,3.32257E-05,-73.90588147,40.6008855
+Nature Area,Fresh Creek Nature Preserve,B384,0.078198884,2.13009E-05,-73.88505546,40.64486686
+Nature Area,Givans Creek Woods,X268,0.013593924,4.77474E-06,-73.82989513,40.8800497
+Nature Area,Graniteville Quarry Park,R150,0.007572893,2.06364E-06,-74.1539999,40.62484712
+Nature Area,Graniteville Swamp Park,R141,0.012906363,4.19228E-06,-74.1742817,40.62492345
+Nature Area,Great Kills Park,R016,0.109150302,0.000104007,-74.1100252,40.55622183
+Nature Area,Hammel Playground,Q309,0.002841053,4.84597E-07,-73.80937161,40.58820992
+Nature Area,High Rock Park,R088,0.045264717,4.0695E-05,-74.12417209,40.58294716
+Nature Area,Hook Creek Wildlife Sanctury,Q466,0.040873423,6.27302E-06,-73.74327672,40.64434971
+Nature Area,Huguenot Ponds Park,R131,0.005075783,7.18669E-07,-74.18961214,40.53039845
+Nature Area,Hybrid Oak Woods Park,R136,0.012129286,4.21562E-06,-74.23416511,40.50326914
+Nature Area,Idlewild Park,Q392,0.242933236,9.56896E-05,-73.75283554,40.6513643
+Nature Area,Ingram Woods,R075C,0.005484322,1.87456E-06,-74.13660948,40.60918983
+Nature Area,Isle Of Meadows,R151,0.02478248,3.18274E-05,-74.20376933,40.57638505
+Nature Area,Jamaica Bay Park,Q309,0.064336149,2.17844E-05,-73.76781166,40.61720679
+Nature Area,Jerome Slope,X105,0.00402065,3.40413E-07,-73.92591268,40.83250542
+Nature Area,Jones Woods Park,R048,0.01618921,7.27132E-06,-74.0907562,40.63716913
+Nature Area,King Fisher Park,R140,0.003709339,7.69535E-07,-74.15475079,40.55757858
+Nature Area,Kingdom Pond Park,R138,0.011632142,2.07873E-06,-74.18494826,40.52543345
+Nature Area,Laredo Avenue Parcel,R161,0.007341773,9.94735E-07,-74.17394373,40.54847225
+Nature Area,Last Chance Pond Park,R148,0.018853084,7.56112E-06,-74.09898916,40.58425305
+Nature Area,Long Pond Park,R027,0.044152968,5.48812E-05,-74.22835523,40.51387183
+Nature Area,Manor Park,R166,0.003890831,7.97889E-07,-74.12701068,40.58870118
+Nature Area,Mariners Marsh Park,R142,0.030111043,4.49207E-05,-74.17497952,40.63716636
+Nature Area,Meredith Woods,R112,0.032081407,1.69989E-05,-74.18786571,40.59825608
+Nature Area,Meredith Woods,R163,0.017197662,6.81052E-06,-74.19513879,40.59754043
+Nature Area,Mill Rock Park,M209,0.006920481,1.12853E-06,-73.93838871,40.7806324
+Nature Area,Motor Parkway,Q130,0.067689088,4.53614E-06,-73.75419717,40.73692397
+Nature Area,New Dorp Park,R107,0.002590213,3.42861E-07,-74.11844108,40.56979351
+Nature Area,North Brother Island,X308,0.012301744,7.49573E-06,-73.89854799,40.8006628
+Nature Area,Ocean Breeze Park,R149,0.041876633,6.10259E-05,-74.07844315,40.58610697
+Nature Area,Old Place Creek Park,R159,0.013007076,2.99313E-06,-74.18239387,40.61932494
+Nature Area,Paerdegat Basin Park,B406,0.071017455,4.07922E-05,-73.90721685,40.62656854
+Nature Area,Palmer Inlet,X294,0.006154921,4.32219E-07,-73.81769806,40.84399095
+Nature Area,Park,Q454,0.137089376,3.19144E-05,-73.74222812,40.649871
+Nature Area,Park,R038B,0.007100219,2.54489E-06,-74.10080039,40.57593196
+Nature Area,Park,R095,0.002789522,3.88931E-07,-74.19098594,40.53714954
+Nature Area,Park,R099,0.002393637,3.35329E-07,-74.18497364,40.54080644
+Nature Area,Park,R100,0.002849613,4.08937E-07,-74.17988617,40.54940174
+Nature Area,Powell's Cove Park,Q461,0.030702272,7.92337E-06,-73.83503643,40.78894095
+Nature Area,Pralls Island,R122,0.037462644,2.60065E-05,-74.20079112,40.60909907
+Nature Area,Pugsley Creek Park,X088,0.060798771,2.53768E-05,-73.8525541,40.81322596
+Nature Area,Railroad Park,Q412,0.016088608,9.2402E-06,-73.76805673,40.67828262
+Nature Area,Raoul Wallenberg Forest,X259,0.006865533,2.25398E-06,-73.91778438,40.88745941
+Nature Area,Reed's Basket Willow Swamp Park,R118,0.041039865,2.24911E-05,-74.10425819,40.60137493
+Nature Area,Riverdale Park,X142,0.059338179,2.27317E-05,-73.91654855,40.89505336
+Nature Area,Saw Mill Creek Marsh,R130,0.141500571,7.18004E-05,-74.19169075,40.60917153
+Nature Area,Seagirt Ave Wetlands,Q469,0.015933965,1.51556E-06,-73.74006424,40.59709253
+Nature Area,Seton Falls Park,X046,0.018351557,1.5866E-05,-73.8380462,40.88706558
+Nature Area,Shooters Island,R128,0.014796183,9.85583E-06,-74.15989008,40.64335231
+Nature Area,Siedenburg Park,R121,0.01480667,9.69134E-06,-74.14428019,40.55608616
+Nature Area,South Beach Wetlands,R147,0.005762197,1.96331E-06,-74.07286224,40.58716046
+Nature Area,South Brother Island,X309,0.006297099,2.24024E-06,-73.89786029,40.79635738
+Nature Area,Spring Creek Park,B165,0.059560186,2.19647E-05,-73.86210898,40.65995704
+Nature Area,Spring Creek Park Addition,Q165,0.076632707,1.65141E-05,-73.85846002,40.65893903
+Nature Area,Spuyten Duyvil Shorefront Park,X090,0.017513904,3.44704E-06,-73.92080441,40.87848762
+Nature Area,Staten Island Industrial Park,R143,0.082818408,9.07084E-05,-74.1739687,40.61257568
+Nature Area,Tottenville Shore Park,R139,0.010738098,1.45341E-06,-74.25285261,40.51047825
+Nature Area,Udalls Cove Park,Q452,0.060242415,1.41576E-05,-73.74425694,40.77368624
+Nature Area,Vernam Barbadoes Peninsula,Q472,0.016970529,8.18971E-06,-73.80579827,40.59381342
+Nature Area,Wegener Park,R101,0.006316857,1.88468E-06,-74.17611512,40.55253244
+Nature Area,Westwood Park,R075B,0.007124994,3.21684E-06,-74.14187799,40.60636602
+Nature Area,Willowbrook Park,R030,0.070192127,9.49237E-05,-74.15677217,40.60060264
+Neighborhood Park,Alexander's Alley,X119,0.001067014,5.50049E-08,-73.92324062,40.81150315
+Neighborhood Park,Amersfort Park,B002,0.005713774,1.60821E-06,-73.93901349,40.62865637
+Neighborhood Park,Andrew Haswell Green Park,M108Q1,0.006890531,6.53159E-07,-73.95755286,40.7595492
+Neighborhood Park,Annadale Green,R080,0.001451816,1.33888E-07,-74.17768803,40.54143141
+Neighborhood Park,Barretto Point Park,X307,0.007384885,2.27352E-06,-73.8882162,40.80555823
+Neighborhood Park,Barrier Playground,Q357B01,0.003138136,2.86332E-07,-73.85517533,40.73620677
+Neighborhood Park,Bathgate Playground,X252,0.005098411,1.16329E-06,-73.89427461,40.8528046
+Neighborhood Park,Battery Park,M005,0.018629443,9.63077E-06,-74.01555951,40.7029548
+Neighborhood Park,Beach 17 Playground,Q162J,0.023844114,4.52689E-06,-73.75192605,40.59442602
+Neighborhood Park,Beach 9 Playground,Q162J01,0.001643087,8.60628E-08,-73.74413453,40.59572648
+Neighborhood Park,Bellevue South Park,M263,0.003830125,7.31191E-07,-73.97808062,40.74000233
+Neighborhood Park,Bennett Park,M009,0.003742075,8.44929E-07,-73.93810794,40.85283885
+Neighborhood Park,Bicentennial Veterans Memorial Park,X191A,0.009896242,4.26494E-06,-73.8138686,40.82350952
+Neighborhood Park,Bill Brown Playground,B109,0.005386913,1.41924E-06,-73.94567663,40.59217001
+Neighborhood Park,Blake Hobbs Playground,M214,0.003826132,4.11537E-07,-73.94420082,40.78880563
+Neighborhood Park,Bleecker Playground,M251,0.001830337,1.52379E-07,-74.00547538,40.7362972
+Neighborhood Park,Blueberry Park,R165,0.002807768,3.18389E-07,-74.16018902,40.52856807
+Neighborhood Park,Boerum Park,B361,0.002632254,4.02161E-07,-73.99032647,40.68465713
+Neighborhood Park,Bowne Park,Q006,0.010015924,5.2516E-06,-73.80736501,40.77052011
+Neighborhood Park,Breininger Park,Q134,0.005584842,1.6775E-06,-73.72895862,40.7258288
+Neighborhood Park,Broad Channel Park,Q460,0.004435464,6.65404E-07,-73.81977278,40.60101672
+Neighborhood Park,Brook Park,X246,0.002943435,3.35012E-07,-73.91873552,40.80954359
+Neighborhood Park,Brower Park,B012,0.008240298,3.06023E-06,-73.9434017,40.67384454
+Neighborhood Park,Brust Park,X055,0.00648376,1.01688E-06,-73.90394053,40.8898822
+Neighborhood Park,Bryant Park,M008,0.009032481,4.19113E-06,-73.98298718,40.75349971
+Neighborhood Park,Bulova Park,Q366,0.003358323,6.34705E-07,-73.89224822,40.76311333
+Neighborhood Park,Butterfly Gardens,B255G,0.002297868,2.03803E-07,-73.98645377,40.66019616
+Neighborhood Park,Cadman Plaza Park,B113A,0.013299688,4.25139E-06,-73.9905578,40.69840362
+Neighborhood Park,Canal Park,M379,0.002767875,2.87531E-07,-74.01057553,40.72534156
+Neighborhood Park,Captain Tilly Park,Q052,0.008807777,4.15551E-06,-73.79882872,40.71218415
+Neighborhood Park,Carl Schurz Park,M081,0.012476815,5.99167E-06,-73.94363671,40.77509181
+Neighborhood Park,Carlton Park,R053,0.004657515,1.03174E-06,-74.2023244,40.53308318
+Neighborhood Park,Carroll Park,B019,0.00442603,8.80694E-07,-73.99547407,40.68109862
+Neighborhood Park,Castle Hill Park,X007,0.014482117,2.38713E-06,-73.84801937,40.81232799
+Neighborhood Park,Cedar Playground,X111,0.004137076,7.70347E-07,-73.91737363,40.85513794
+Neighborhood Park,Centreville Playground,Q386,0.004009996,9.58531E-07,-73.83904072,40.67036132
+Neighborhood Park,Charlton Garden,X086,0.001834513,1.96455E-07,-73.9071066,40.82468109
+Neighborhood Park,Cherry Tree Park,M215,0.00262039,4.18373E-07,-73.94721067,40.78723713
+Neighborhood Park,Clement Clarke Moore Park,M257,0.002105085,2.21362E-07,-74.00430965,40.74663145
+Neighborhood Park,Cobble Hill Park,B326,0.002626286,2.77902E-07,-73.99599392,40.68820967
+Neighborhood Park,Coffey Park,B077,0.007783913,3.54332E-06,-74.008469,40.67765817
+Neighborhood Park,Col. Young Playground,M186,0.007317135,2.85037E-06,-73.93550531,40.81917808
+Neighborhood Park,Colgate Close,X195A,0.004113876,8.83149E-07,-73.88148451,40.82414474
+Neighborhood Park,Concrete Plant Park,X305,0.015783324,2.71977E-06,-73.8851902,40.82533533
+Neighborhood Park,Cooper Park,B025,0.007630317,2.78366E-06,-73.937245,40.71585291
+Neighborhood Park,Corlears Hook Park,M017,0.006494015,1.93643E-06,-73.97951281,40.7117757
+Neighborhood Park,Corona Golf Playground,Q450,0.003739737,7.33743E-07,-73.85460931,40.74758444
+Neighborhood Park,Corona Mac Park,Q473,0.001209519,8.65103E-08,-73.85911981,40.74034284
+Neighborhood Park,Corporal John A. Seravalli Playground,M237,0.002966739,4.94036E-07,-74.0047958,40.73906963
+Neighborhood Park,Crowley Playground,Q360J,0.004054175,7.44741E-07,-73.87964626,40.72957856
+Neighborhood Park,Cuyler Gore Park,B026,0.003380096,5.29892E-07,-73.97192723,40.68565484
+Neighborhood Park,Cypress Hills Playground,B103,0.006611646,2.41043E-06,-73.8717073,40.67043627
+Neighborhood Park,Daniel M. O'Connell Playground,Q106,0.00400837,9.15597E-07,-73.75809919,40.69988189
+Neighborhood Park,De Matti Playground,R035,0.005414308,1.00254E-06,-74.07418782,40.61453503
+Neighborhood Park,Dean Playground,B232,0.003595848,5.72968E-07,-73.97318232,40.68087697
+Neighborhood Park,Detective Joseph Mayrose Park,B255F,0.005559806,5.29805E-07,-73.98765391,40.66147768
+Neighborhood Park,Devoe Park,X013,0.010248323,2.53061E-06,-73.90625375,40.86331344
+Neighborhood Park,Ditmars Park,Q385,0.003203978,3.98153E-07,-73.90715205,40.77160739
+Neighborhood Park,Dome Playground,B151,0.003347347,5.18248E-07,-73.98019722,40.63820518
+Neighborhood Park,Dr. Gertrude B. Kelly Playground,M066,0.001938263,2.2229E-07,-74.00201172,40.74165175
+Neighborhood Park,Dr. Ronald E. McNair Playground,M285,0.002089915,2.60625E-07,-73.93809376,40.80253257
+Neighborhood Park,Dr. Ronald McNair Park,B044,0.003902018,6.474E-07,-73.96199534,40.67068652
+Neighborhood Park,Dream Street Park,M302,0.001368552,1.11353E-07,-73.93503904,40.80274074
+Neighborhood Park,Eae J Mitchell Park,X267,0.001184388,8.16215E-08,-73.88439893,40.83646626
+Neighborhood Park,East River Esplanade,M289,0.003056072,2.20874E-07,-73.97049249,40.74498206
+Neighborhood Park,Electric Playground,Q342,0.003522871,7.67572E-07,-73.80538152,40.73595649
+Neighborhood Park,Equity Park,Q053,0.003577754,7.18368E-07,-73.85332109,40.69125231
+Neighborhood Park,Estella Diggs Park,X243,0.003623603,4.50185E-07,-73.90618647,40.82893909
+Neighborhood Park,Ewen Park,X019,0.007357773,3.45971E-06,-73.91001827,40.88218572
+Neighborhood Park,First Park,M124,0.005620502,3.38055E-07,-73.98960967,40.7235094
+Neighborhood Park,Frank D. O'Connor Playground,Q098,0.004653665,7.51716E-07,-73.88673961,40.7442537
+Neighborhood Park,Frank Golden Park,Q445,0.014605109,4.89572E-06,-73.83380846,40.78481194
+Neighborhood Park,Frederick B. Judge Playground,Q119,0.004513565,1.02082E-06,-73.80812298,40.68340833
+Neighborhood Park,Frederick Douglass Playground,M220,0.003924832,8.50476E-07,-73.96753244,40.79710204
+Neighborhood Park,Fulton Park,B038,0.00614766,9.25904E-07,-73.93260353,40.67975694
+Neighborhood Park,George Walker Jr. Park,B402,0.002195408,2.58706E-07,-73.89511899,40.67861533
+Neighborhood Park,Gilbert Ramirez Park,B132,0.004008492,4.42236E-07,-73.93454702,40.70596439
+Neighborhood Park,Glenwood Playground,B236,0.003500548,6.4444E-07,-73.91980543,40.63671036
+Neighborhood Park,Golconda Playground,B243,0.004001843,6.39967E-07,-73.98237108,40.69785127
+Neighborhood Park,Gorman Park,M031,0.003602529,7.55307E-07,-73.93241967,40.85569308
+Neighborhood Park,Gorman Playground,Q085,0.004776586,1.19907E-06,-73.88423806,40.76238361
+Neighborhood Park,Grandview Playground,R068,0.00455869,1.29707E-06,-74.1645103,40.63082806
+Neighborhood Park,Grant Park,X271,0.011267716,1.63961E-06,-73.9129247,40.83685915
+Neighborhood Park,Gravesend Park,B042,0.00898908,2.28886E-06,-73.98432788,40.62351767
+Neighborhood Park,Green Central Knoll,B395,0.005406301,1.20317E-06,-73.93303438,40.70193318
+Neighborhood Park,Greenwood Playground,B130,0.00663534,1.38439E-06,-73.97641591,40.65037954
+Neighborhood Park,Grover Cleveland Playground,Q002,0.006171819,2.26688E-06,-73.91113994,40.71089212
+Neighborhood Park,Haffen Park,X196,0.008207562,4.02886E-06,-73.83916182,40.87368809
+Neighborhood Park,Haggerty Park,Q359,0.006336956,1.73862E-06,-73.75768853,40.71297884
+Neighborhood Park,Hallets Cove Playground,Q226,0.015515062,2.01273E-06,-73.93584771,40.77285788
+Neighborhood Park,Hamilton Metz Field,B193,0.004495481,9.45764E-07,-73.94097269,40.66254691
+Neighborhood Park,Harding Park,X262,0.006855339,9.77563E-07,-73.85660172,40.80929994
+Neighborhood Park,Harlem Art Park,M166,0.001633986,1.50172E-07,-73.93879808,40.80103548
+Neighborhood Park,Harlem Lane Playground,M141,0.00551347,7.04046E-07,-73.93484004,40.82588202
+Neighborhood Park,Harmony Park,B403,0.006042416,6.19683E-07,-73.93443275,40.67792048
+Neighborhood Park,Harold Ickes Playground,B210H,0.005195466,3.69968E-07,-74.00599765,40.68265144
+Neighborhood Park,Harris Park,X136,0.010738772,6.96393E-06,-73.89188654,40.87627692
+Neighborhood Park,Harry Maze Playground,B285,0.004472839,1.11147E-06,-73.92318064,40.64340338
+Neighborhood Park,Hart Playground,Q067A,0.002571108,4.07251E-07,-73.89733152,40.74875183
+Neighborhood Park,Harvard Playground,Q120,0.002136877,2.54841E-07,-73.78156608,40.70912674
+Neighborhood Park,Hell's Kitchen Park,M277,0.002131788,2.69002E-07,-73.99258748,40.762968
+Neighborhood Park,Henry Hudson Park,X080,0.012389575,4.00178E-06,-73.91998044,40.88131226
+Neighborhood Park,Herman Dolgon Playground,B235,0.004228696,8.49871E-07,-73.9399771,40.59806488
+Neighborhood Park,Hero Park,R011,0.005984979,1.33592E-06,-74.08806751,40.63027923
+Neighborhood Park,Highbridge Park,X120,0.003798747,4.17575E-07,-73.92675682,40.84207675
+Neighborhood Park,Hillside Park,,0.000729003,1.88575E-08,-73.99487924,40.70090507
+Neighborhood Park,Hillside Park,B223G,0.005754924,6.05962E-07,-73.99426317,40.7014068
+Neighborhood Park,Hinton Park,Q410,0.006221454,1.76898E-06,-73.85490636,40.75594299
+Neighborhood Park,Holcombe Rucker Park,M216,0.005957447,1.31279E-06,-73.93594794,40.82919262
+Neighborhood Park,Hoover - Manton Playgrounds,Q220G,0.009753951,2.46856E-06,-73.82123066,40.71147729
+Neighborhood Park,Hope Ballfields,B429,0.00323194,6.1822E-07,-73.91713195,40.69748587
+Neighborhood Park,Howard Von Dohlen Playground,Q105,0.003242976,6.46323E-07,-73.81298233,40.6994408
+Neighborhood Park,Hoyt Playground,Q066F,0.004102671,9.87698E-07,-73.91722231,40.77158481
+Neighborhood Park,Hunts Point Riverside Park,X336,0.004316922,5.40939E-07,-73.88172318,40.8176346
+Neighborhood Park,Irving Square Park,B049,0.004909791,1.19416E-06,-73.90920351,40.69245293
+Neighborhood Park,J. Hood Wright Park,M099,0.006961519,2.88996E-06,-73.94126453,40.84653561
+Neighborhood Park,Jackie Robinson Park,M014,0.01696888,5.66558E-06,-73.9411199,40.82660551
+Neighborhood Park,Jacob's Ladder Playground,B382B,0.002795315,4.76026E-07,-73.96702503,40.70487049
+Neighborhood Park,James J Walker Park,M038,0.00378972,7.15822E-07,-74.0061352,40.72980057
+Neighborhood Park,Jennifer's Playground,R114,0.003480748,6.89032E-07,-74.16313431,40.62005843
+Neighborhood Park,Jerome Park,X137,0.016719866,2.53027E-06,-73.89178692,40.87881461
+Neighborhood Park,John J Carty Park,B210W,0.013278703,4.20875E-06,-74.03028186,40.61310697
+Neighborhood Park,John Paul Jones Park,B035,0.006576137,2.49069E-06,-74.03405721,40.61095857
+Neighborhood Park,Joseph C. Sauer Park,M113,0.001890971,1.7975E-07,-73.97973626,40.72817157
+Neighborhood Park,Junction Playground,Q122,0.002004605,2.41047E-07,-73.87213475,40.75469545
+Neighborhood Park,Kaltenmeier Playground,R042,0.005148762,4.52379E-07,-74.06881318,40.61483789
+Neighborhood Park,Kelly Park,B051,0.005008912,1.52016E-06,-73.95764247,40.60416845
+Neighborhood Park,Kennedy Playground,Q103,0.006229039,2.39826E-06,-73.77935347,40.77170764
+Neighborhood Park,Laurelton Playground,Q108,0.005074176,7.23265E-07,-73.73652424,40.67004305
+Neighborhood Park,Lawrence Virgilio Playground,Q031,0.006111048,1.32934E-06,-73.91073191,40.7474691
+Neighborhood Park,Leif Ericson Park,B052,0.032388446,5.95827E-06,-74.01624815,40.63352193
+Neighborhood Park,Liotti Ikefugi Playground,R037,0.001835329,1.81325E-07,-74.08389951,40.63875122
+Neighborhood Park,Livonia Park,B367,0.002587679,4.11662E-07,-73.90200544,40.6639547
+Neighborhood Park,London Planetree Playground,Q128,0.003690905,7.84435E-07,-73.85324281,40.68613952
+Neighborhood Park,Lopez Playground,R125,0.003376131,4.95583E-07,-74.08505357,40.61147031
+Neighborhood Park,Louis Cuvillier Park,M108A,0.005170908,1.18162E-06,-73.93087687,40.80088893
+Neighborhood Park,Luna Park,B296,0.004927203,7.97236E-07,-73.97839438,40.57608627
+Neighborhood Park,Luther Gulick Playground,M065,0.003958967,6.54531E-07,-73.98186449,40.71588599
+Neighborhood Park,MacDonald Park,Q207,0.005302401,6.3497E-07,-73.84683008,40.72224181
+Neighborhood Park,Macneil Park,Q009,0.01300236,8.86446E-06,-73.85174537,40.79284839
+Neighborhood Park,Madison Square Park,M052,0.007096999,3.15019E-06,-73.987993,40.74220426
+Neighborhood Park,Mae Grant Playground,M213,0.002772239,4.39398E-07,-73.94945506,40.79243423
+Neighborhood Park,Mahoney Playground,R025,0.003927862,9.45838E-07,-74.08584758,40.64334596
+Neighborhood Park,Maple Playground,Q211,0.002911888,4.16289E-07,-73.82609517,40.75587633
+Neighborhood Park,Marconi Park,Q127,0.006687216,2.00739E-06,-73.79552983,40.69358369
+Neighborhood Park,Maria Hernandez Park,B016,0.007080155,2.99242E-06,-73.92386125,40.70317604
+Neighborhood Park,Mariners Harbor Playground,R036,0.001389089,1.15078E-07,-74.16046937,40.63656489
+Neighborhood Park,Marion Hopkinson Playground,B110,0.004727174,5.96385E-07,-73.91333899,40.68178094
+Neighborhood Park,Marlboro Playground,B272,0.002792645,4.71757E-07,-73.98084563,40.59120756
+Neighborhood Park,Martin Luther King Playground,M198,0.003026409,5.20854E-07,-73.95038348,40.80020264
+Neighborhood Park,McDonald Playground,B244,0.005853,1.47242E-06,-73.97209239,40.60055888
+Neighborhood Park,McKinley Park,B060,0.006687184,2.63435E-06,-74.01659813,40.62686755
+Neighborhood Park,Mellett Playground,B197,0.002944212,4.88978E-07,-73.95744499,40.59698165
+Neighborhood Park,Mercer Playground,M295,0.00313043,2.04336E-07,-73.99627192,40.72764406
+Neighborhood Park,Middle Village Playground,Q101,0.001818714,1.93458E-07,-73.87362163,40.71009315
+Neighborhood Park,Milestone Park,B063,0.002060267,2.23687E-07,-73.99949346,40.60951337
+Neighborhood Park,Mill Pond Park,X344,0.01661433,5.55031E-06,-73.93166414,40.8219788
+Neighborhood Park,Monsignor Kett Playground,M199,0.002780845,4.40236E-07,-73.92090489,40.86252893
+Neighborhood Park,Moore Homestead Playground,Q361,0.004350657,8.55596E-07,-73.88239012,40.74214042
+Neighborhood Park,Mount Prospect Park,B159,0.007806988,3.93273E-06,-73.96666199,40.67161117
+Neighborhood Park,Msgr. McGolrick Park,B114,0.008006103,3.9329E-06,-73.94336604,40.72444452
+Neighborhood Park,Murray Playground,Q141,0.005061139,1.09875E-06,-73.94882127,40.74722669
+Neighborhood Park,Nathan Weidenbaum Park,Q205B,0.002262082,3.01718E-07,-73.90223947,40.73815659
+Neighborhood Park,Newtown Playground,Q041,0.002337672,3.19833E-07,-73.86953433,40.73632174
+Neighborhood Park,Nicholas Naquan Heyward Jr. Park,B230,0.003008461,4.40905E-07,-73.98787471,40.68457697
+Neighborhood Park,Northerleigh Park,R078,0.007090429,1.69476E-06,-74.13408341,40.62283288
+Neighborhood Park,Owl's Head Park,B066,0.014482574,1.10185E-05,-74.03230076,40.6401298
+Neighborhood Park,P.O. Serrano Playground,X151,0.005337363,1.23427E-06,-73.8510247,40.82340456
+Neighborhood Park,Park Of The Americas,Q026,0.004774773,1.37454E-06,-73.86192257,40.74856596
+Neighborhood Park,Penn South Playground,M249,0.002743124,2.39859E-07,-73.99868319,40.74758378
+Neighborhood Park,Peter Detmold Park,M108N,0.004291522,2.86526E-07,-73.96387964,40.75330221
+Neighborhood Park,Peters Field,Q351,0.005021966,1.24028E-06,-73.77483943,40.70601481
+Neighborhood Park,Pierrepont Playground,B222,0.00193438,2.17372E-07,-73.99756424,40.69626751
+Neighborhood Park,Playground 103 CIII,M108G,0.003011729,4.72483E-07,-73.93912733,40.78698456
+Neighborhood Park,Playground One Thirty Four CXXXIV,X138,0.00592528,8.04199E-07,-73.91766827,40.80321748
+Neighborhood Park,Police Officer Nicholas Demutiis Park,Q118,0.002858413,4.71856E-07,-73.83929098,40.68178797
+Neighborhood Park,Power Playground,B291,0.004251821,1.03709E-06,-73.92732726,40.61813108
+Neighborhood Park,Pratt Playground,B292,0.002555359,3.99577E-07,-73.96251094,40.69262398
+Neighborhood Park,Printer's Park,X284,0.004735005,5.79519E-07,-73.89082978,40.82393634
+Neighborhood Park,Railroad Park,X032,0.002538081,3.07466E-07,-73.91539939,40.82512721
+Neighborhood Park,Railroad Playground,B271,0.00452039,1.0417E-06,-73.91427679,40.64943004
+Neighborhood Park,Rainey Park,Q048,0.00899865,3.83953E-06,-73.94076196,40.76629247
+Neighborhood Park,Ralph Demarco Park,Q004A,0.01269236,1.59302E-06,-73.91718274,40.78455993
+Neighborhood Park,Ranaqua Park,X272,0.003189167,3.14142E-07,-73.92227491,40.80672203
+Neighborhood Park,Rappaport Playground,B152,0.003398244,5.12612E-07,-74.00067393,40.6369749
+Neighborhood Park,Ravenswood Playground,Q333,0.005924697,1.29229E-06,-73.93534333,40.76261439
+Neighborhood Park,Reiff Playground,Q423,0.003786367,7.8209E-07,-73.90172777,40.71857789
+Neighborhood Park,Rev Lena Irons Unity Park,X286,0.001614627,1.54968E-07,-73.90666748,40.83104203
+Neighborhood Park,Richman (Echo) Park,X017,0.006656558,1.98539E-06,-73.90155613,40.84928049
+Neighborhood Park,Risse Street Park,X335,0.003224157,3.70817E-07,-73.88529943,40.87850488
+Neighborhood Park,Riverside Park,M072,0.040637785,6.96841E-06,-73.95299342,40.82679391
+Neighborhood Park,Robert Venable Park,B380,0.00611903,1.2834E-06,-73.86521943,40.67441953
+Neighborhood Park,Rock Garden Park,X273,0.003059531,4.09408E-07,-73.88508325,40.83529355
+Neighborhood Park,Rockaway Beach and Boardwalk,Q162J,0.137214557,5.51461E-05,-73.77205874,40.59053263
+Neighborhood Park,Rodney Playground Center,B223P04,0.001361184,1.01704E-07,-73.95554778,40.71025413
+Neighborhood Park,Rufus King Park,Q023,0.009083891,4.94793E-06,-73.80399567,40.70370003
+Neighborhood Park,Ruppert Park,M294,0.002608859,4.23041E-07,-73.95013849,40.78095621
+Neighborhood Park,Sakura Park,M087,0.004046243,9.18028E-07,-73.96207801,40.81307226
+Neighborhood Park,Samuel N. Bennerson 2nd Playground,M184,0.00232065,3.22647E-07,-73.98696152,40.77382392
+Neighborhood Park,Sara D. Roosevelt Park,M105,0.018010069,3.50095E-06,-73.99259038,40.71968004
+Neighborhood Park,Saratoga Park,B079,0.006147793,1.4149E-06,-73.91900111,40.68497777
+Neighborhood Park,Scarangella Park,B106A,0.005437946,1.49986E-06,-73.98433771,40.59467793
+Neighborhood Park,Schmul Park,R045,0.01199017,3.87261E-06,-74.18616119,40.5888437
+Neighborhood Park,Seabury Park,X282,0.001245793,7.49526E-08,-73.88787095,40.83649453
+Neighborhood Park,Sean's Place,Q444,0.002450306,2.42389E-07,-73.91832491,40.7607677
+Neighborhood Park,Seaside Wildlife Nature Park,R145,0.010192151,3.06132E-06,-74.14265367,40.54039703
+Neighborhood Park,Seth Low Playground,B100,0.002273563,2.48764E-07,-73.98766742,40.60749067
+Neighborhood Park,Seth Low Playground/ Bealin Square,B100,0.00600327,2.02544E-06,-73.98625171,40.60818535
+Neighborhood Park,Seward Park,M082,0.0051109,1.42788E-06,-73.98923516,40.71478798
+Neighborhood Park,Sgt. William Dougherty Playground,B096,0.002259518,3.32458E-07,-73.93709975,40.72372073
+Neighborhood Park,Sherman Creek,M300,0.013860032,2.46046E-06,-73.92184022,40.85814063
+Neighborhood Park,Simeone Park,Q474,0.003858787,6.67144E-07,-73.85991902,40.74098283
+Neighborhood Park,Socrates Sculpture Park,Q465,0.004968981,1.26904E-06,-73.93646833,40.76860759
+Neighborhood Park,South Oxford Park,B407,0.002947244,5.0717E-07,-73.97248222,40.68372968
+Neighborhood Park,South Pacific Playground,B153,0.004498357,9.85507E-07,-73.92029805,40.67565341
+Neighborhood Park,Squibb Park,B223F,0.001991328,2.47977E-07,-73.99549197,40.70090239
+Neighborhood Park,St. Andrew's Playground,B225,0.005017759,1.49543E-06,-73.94224752,40.67867375
+Neighborhood Park,St. Catherine's Park,M079,0.003266301,6.02404E-07,-73.95872355,40.76519785
+Neighborhood Park,St. James Park,X044,0.00925754,4.99451E-06,-73.89778456,40.86516708
+Neighborhood Park,St. John's Recreation Center,B245,0.008654521,3.85484E-06,-73.93478593,40.67435417
+Neighborhood Park,St. Mary's Park,X045,0.016387205,1.53826E-05,-73.91223434,40.81145347
+Neighborhood Park,St. Michael's Playground,Q174A,0.006930256,2.48716E-06,-73.90018296,40.75897005
+Neighborhood Park,St. Nicholas Park,M077,0.022697678,9.96464E-06,-73.94882653,40.81726501
+Neighborhood Park,St. Vartan Park,M076,0.006378133,1.15109E-06,-73.97394606,40.74523942
+Neighborhood Park,Stanley Isaacs Playground,M192,0.004271844,5.52416E-07,-73.94434708,40.78309403
+Neighborhood Park,Steuben Playground,B221,0.003152069,5.30302E-07,-73.96345239,40.69744529
+Neighborhood Park,Stuyvesant Square,M086,0.008147238,1.78248E-06,-73.98398481,40.73364156
+Neighborhood Park,Sutton Place Park,M108R,0.001617944,1.35516E-07,-73.9602157,40.75672305
+Neighborhood Park,Taaffe Playground,B105,0.004954267,7.75347E-07,-73.9607153,40.69527501
+Neighborhood Park,Tanahey Playground,M206,0.004598726,6.35276E-07,-73.99527432,40.71014328
+Neighborhood Park,The Olde Towne of Flushing Burial Ground,Q017,0.005527289,1.37411E-06,-73.80235912,40.75463117
+Neighborhood Park,Thomas Boyland Park,B381,0.005652342,7.64467E-07,-73.9075427,40.68174218
+Neighborhood Park,Tilden Playground,B234,0.002987985,5.57055E-07,-73.93142976,40.64763212
+Neighborhood Park,Toad Hall Playground,R064,0.003093614,4.91884E-07,-74.11957644,40.60868729
+Neighborhood Park,Tompkins Square Park,M088,0.008470851,4.41781E-06,-73.98169602,40.72644342
+Neighborhood Park,Tompkinsville Park,R024,0.002377669,2.10696E-07,-74.07639352,40.63739711
+Neighborhood Park,Tremont Park,X010A,0.010842106,6.6617E-06,-73.8952426,40.84528672
+Neighborhood Park,Underbridge Dog Run,Q451,0.002291443,2.12005E-07,-73.84521787,40.73385754
+Neighborhood Park,Underwood Park,B259,0.002954469,5.11076E-07,-73.96643127,40.68858406
+Neighborhood Park,University Woods,X051,0.007671201,1.53609E-06,-73.91497777,40.85918518
+Neighborhood Park,Utopia Playground,Q294,0.005684235,1.26045E-06,-73.79278637,40.73072627
+Neighborhood Park,Valentino Pier,B418,0.006995847,7.00947E-07,-74.01803906,40.67834775
+Neighborhood Park,Van Dyke Playground,B249,0.003176457,6.2163E-07,-73.9040184,40.66441874
+Neighborhood Park,Van Voorhees Park,B050,0.011764562,1.63382E-06,-73.99938486,40.69028691
+Neighborhood Park,Vesuvio Playground,M069,0.002869469,2.71949E-07,-74.00257474,40.72539901
+Neighborhood Park,Veterans Park,R019,0.003069139,5.70698E-07,-74.13176708,40.63718832
+Neighborhood Park,Vidalia Park,X266,0.005482946,8.50966E-07,-73.88142755,40.84386103
+Neighborhood Park,Virginia Park,X148L1,0.003017492,3.8102E-07,-73.86218309,40.83348633
+Neighborhood Park,Vladeck Park,M182,0.003996015,3.20353E-07,-73.9820248,40.71245406
+Neighborhood Park,Von Briesen Park,R059,0.022775628,4.82565E-06,-74.05914425,40.60754478
+Neighborhood Park,Washington's Walk,X038,0.014789529,2.11926E-06,-73.89957979,40.87359843
+Neighborhood Park,Washington Park,B111,0.005817416,1.28328E-06,-73.98477304,40.67308235
+Neighborhood Park,Washington Square Park,M098,0.009186375,4.30312E-06,-73.99758711,40.73088411
+Neighborhood Park,Watson Gleason Playground,X124,0.005405319,1.43291E-06,-73.86896995,40.82843957
+Neighborhood Park,West Farms Rapids,X288,0.00697614,4.6435E-07,-73.87765506,40.84132591
+Neighborhood Park,West Playground,B252,0.004774478,1.04875E-06,-73.97007083,40.58708596
+Neighborhood Park,Westerleigh Park,R029,0.00446997,1.246E-06,-74.13446042,40.61982057
+Neighborhood Park,White Playground,R012,0.00259323,4.05576E-07,-74.06313748,40.60758422
+Neighborhood Park,William F Moore Park,Q029,0.001432096,9.97257E-08,-73.8554448,40.74366716
+Neighborhood Park,Williamsbridge Oval,X104,0.011060368,8.2545E-06,-73.87736603,40.87761881
+Neighborhood Park,Yellowstone Park,Q425,0.003836919,7.76015E-07,-73.84754341,40.72627964
+Playground,"Uncle"""" Vito E. Maranzano Glendale Playground",Q290,0.002880772,5.19187E-07,-73.88175578,40.70492366
+Playground,Abigail Playground,X216,0.00291704,3.33772E-07,-73.90464103,40.81730985
+Playground,Abyssinian Tot Lot,M303,0.001683887,9.35732E-08,-73.94089374,40.81706222
+Playground,Admiral Farragut Playground,X148H,0.004549899,5.76632E-07,-73.89182273,40.84295826
+Playground,Admiral Triangle,B210F,0.001610047,1.19083E-07,-74.00107733,40.67692474
+Playground,Alexander Hamilton Playground,M041,0.002528847,3.49249E-07,-73.95128524,40.823079
+Playground,Alice Kornegay Triangle,M208A,0.002992105,4.53989E-07,-73.93529272,40.80643563
+Playground,American Playground,B001,0.002503525,3.84722E-07,-73.95790412,40.72877804
+Playground,Andrews Grove,Q045,0.00212945,2.18153E-07,-73.95482501,40.7433776
+Playground,Annunciation Park,M003,0.002862466,4.45465E-07,-73.9521091,40.8183184
+Playground,Arverne Playground,Q313,0.002603314,4.25355E-07,-73.78518409,40.59285336
+Playground,Astoria Health Playground,Q123,0.001228247,8.57613E-08,-73.93267381,40.76794619
+Playground,Bailey Playground,X150J,0.00947507,1.6704E-06,-73.89996912,40.88215207
+Playground,Bath Beach Park,B164,0.004832014,1.28775E-06,-74.01110095,40.60244352
+Playground,Beach 59th St Playground,Q162E,0.002483532,2.81296E-07,-73.78902266,40.58907369
+Playground,Beanstalk Playground,X283,0.001725748,1.38197E-07,-73.91675244,40.85382118
+Playground,Bedford Playground,B142,0.002773453,3.803E-07,-73.9638706,40.70829069
+Playground,Behagen Playground,X166,0.004913635,1.39963E-06,-73.90141492,40.82530763
+Playground,Belmont Playground,X108,0.004680769,9.72597E-07,-73.88769673,40.85028883
+Playground,Benninger Playground,Q038,0.002341463,2.4992E-07,-73.89828353,40.70705611
+Playground,Berry Playground,B154,0.00156357,1.36814E-07,-73.96350991,40.71264019
+Playground,Bill Bojangles Robinson Playground,M138,0.001112538,7.4793E-08,-73.93729431,40.82528136
+Playground,Bland Playground,Q326,0.002246653,2.45061E-07,-73.8311337,40.75826465
+Playground,Brevoort Playground,B258,0.003644586,7.05047E-07,-73.9227355,40.68043217
+Playground,Bridge Park,B223JB,0.006259181,7.15528E-07,-73.98591103,40.70106064
+Playground,Bridge Playground,X148A3,0.002391641,2.55397E-07,-73.9241104,40.84429343
+Playground,Brighton Playground,B169A,0.003015016,5.27389E-07,-73.96539757,40.5751705
+Playground,Brizzi Playground,B162,0.00235494,3.16823E-07,-73.99463575,40.64241294
+Playground,Bufano Park,X121,0.003747957,7.92867E-07,-73.83112676,40.83820822
+Playground,Captain Jacob Joseph Playground,M122,0.00103851,6.50825E-08,-73.98981955,40.71358809
+Playground,Captain Rivera Playground,X194,0.002695501,4.43686E-07,-73.90691205,40.81792124
+Playground,Carmansville Playground,M018,0.002055614,2.47483E-07,-73.9442532,40.82918641
+Playground,Charlie's Place,B302,0.003319962,5.81149E-07,-73.945978,40.69913751
+Playground,Cherry Clinton Playground,M171,0.001868938,1.98838E-07,-73.98627766,40.71131106
+Playground,Classon Playground,B223NA,0.005288052,1.38093E-06,-73.96208958,40.69907348
+Playground,Cleopatra Playground,X258,0.002860605,2.72774E-07,-73.90420842,40.8454283
+Playground,Coleman Playground,M019,0.004882159,1.11547E-06,-73.99341325,40.71120849
+Playground,Colonel David Marcus Playground,B128,0.007625421,1.18026E-06,-73.96935272,40.60986366
+Playground,Columbus Park,M015,0.005237557,1.33546E-06,-74.00001206,40.71515535
+Playground,Courtney Callender Playground,M155,0.002338577,2.93429E-07,-73.94011124,40.81004094
+Playground,Crack Is Wack Playground,M208E,0.003446766,6.29005E-07,-73.93175574,40.8043657
+Playground,Crispus Attucks Playground,B102,0.003166522,4.09298E-07,-73.95917513,40.68156833
+Playground,Curtis Playground,B352,0.002716516,4.38875E-07,-73.9174094,40.64095032
+Playground,D'Emic Playground,B210B,0.003099452,4.98216E-07,-74.00493208,40.65600365
+Playground,Dan Ross Playground,B210P,0.001731398,1.09337E-07,-74.02158493,40.62280375
+Playground,Daniel Boone Playground,X147B,0.004238394,5.98161E-07,-73.88597267,40.82959339
+Playground,Davidson Playground,X300,0.001229134,8.87632E-08,-73.90770928,40.85506572
+Playground,De Witt Clinton Park,M022,0.006408105,2.54203E-06,-73.99428749,40.76819372
+Playground,DeSalvio Playground,M218,0.001391854,1.11198E-07,-73.99610548,40.72164054
+Playground,Dimattina Playground,B223B,0.004018044,2.54209E-07,-74.00210079,40.68075249
+Playground,Dodger Playground,B121,0.001409866,1.2326E-07,-73.95236073,40.66487395
+Playground,Downing Street Playground,M027,0.00166177,8.84967E-08,-74.00273694,40.72985993
+Playground,Drew Playground,X021,0.002616047,4.07937E-07,-73.90334585,40.83314876
+Playground,Duke Park,B366,0.001035009,5.73353E-08,-73.89325723,40.6668208
+Playground,East Flatbush Children's Park,B404,0.000952867,5.17329E-08,-73.92696176,40.66326869
+Playground,Eastchester Playground,X156,0.002821044,4.74785E-07,-73.85279693,40.86978468
+Playground,Ehrenreich-Austin Playground,Q304,0.003802064,5.17653E-07,-73.83684417,40.71550523
+Playground,Elizabeth Stroud Playground,B200,0.001453388,1.29303E-07,-73.93108914,40.67966751
+Playground,Elton Playground,B149A,0.002975413,3.0387E-07,-73.88075732,40.66594695
+Playground,Ennis Playground,B095,0.002310295,2.65024E-07,-73.9938187,40.67073903
+Playground,Epiphany Playground,B405,0.001941562,1.84454E-07,-73.96557463,40.70855131
+Playground,Flynn Playground,X146,0.002342795,3.26853E-07,-73.91193235,40.82104733
+Playground,Fordham Landing Playground,X150E,0.014902628,2.00848E-06,-73.90973342,40.86449354
+Playground,Fort Independence Playground,X020,0.010290527,1.49559E-06,-73.8947043,40.88188845
+Playground,Fox Playground,X247,0.003242485,3.94585E-07,-73.89850418,40.81491111
+Playground,Fred Samuel Playground,M160,0.002199308,2.9295E-07,-73.93924298,40.81715899
+Playground,Freedom Square Playground,Q370,0.002254654,1.60375E-07,-73.82026837,40.72320974
+Playground,Frontera Park,Q360M,0.003476125,6.69229E-07,-73.89536324,40.72467986
+Playground,Frost Playground,B257,0.002549241,3.68168E-07,-73.93900821,40.7187168
+Playground,Galapo Playground,B209,0.002002603,2.13161E-07,-73.94675211,40.5980021
+Playground,Galileo Playground,X265,0.002472395,3.36474E-07,-73.91570356,40.84860388
+Playground,Garibaldi Playground,B158,0.001978266,2.03371E-07,-74.00009832,40.60896881
+Playground,Garrison Playground,X106,0.00242651,3.04455E-07,-73.92831046,40.81754398
+Playground,Gene Gray Playground,Q456,0.0012285,9.28094E-08,-73.81918188,40.6062392
+Playground,Givan Square,X187,0.006789063,8.54002E-07,-73.84257294,40.86825082
+Playground,Goble Playground,X114,0.001816185,1.91029E-07,-73.91703779,40.8437582
+Playground,Gouverneur Playground,X222,0.0033215,4.4682E-07,-73.90344738,40.83569963
+Playground,Grand Playground,X244,0.001744519,1.71439E-07,-73.90723128,40.85602771
+Playground,Greenpoint Playground,B043,0.002657366,2.54965E-07,-73.95903623,40.73572897
+Playground,Greenstreet,MZ20,0.000702807,2.70349E-08,-74.00055472,40.71532979
+Playground,Gun Hill Playground,X161,0.002426094,3.2172E-07,-73.86551438,40.87470315
+Playground,Half-Nelson Playground,X295,0.002272046,2.79084E-07,-73.91930652,40.84678604
+Playground,Harry Chapin Playground,B223H,0.001383898,1.15371E-07,-73.99493254,40.70065693
+Playground,Havemeyer Playground,X148M1,0.002424092,2.14141E-07,-73.84785517,40.82990177
+Playground,Heckscher Playground,B139,0.004505171,8.86648E-07,-73.9184679,40.69519563
+Playground,Hines Park,X026,0.003228364,2.05204E-07,-73.90569619,40.82857329
+Playground,Hoffman Park,Q360N,0.006217029,1.41843E-06,-73.87210659,40.73275118
+Playground,Homecrest Playground,B166B,0.004286599,1.01807E-06,-73.95727182,40.58603842
+Playground,Horseshoe Playground,X014,0.001587228,1.84203E-07,-73.89769204,40.82412387
+Playground,Hot Spot Tot Lot,B212,0.001545742,7.61809E-08,-73.95671023,40.63103093
+Playground,Ida Court,R097,0.021590538,3.49339E-06,-74.18871526,40.53682015
+Playground,Imagination Playground,M386,0.001960513,1.39984E-07,-74.00410316,40.70620881
+Playground,Jaime Campiz Playground,B223R,0.003195268,3.19877E-07,-73.95437336,40.71353807
+Playground,Jennie Jerome Playground,X148C5,0.001200354,9.641E-08,-73.91349104,40.8455309
+Playground,John Allen Payne Park,B210A,0.003383866,5.6038E-07,-74.02388976,40.63997996
+Playground,Josephine Caminiti Playground,Q046,0.001665955,1.73442E-07,-73.86152819,40.74391259
+Playground,Kolbert Playground,B150,0.003445068,7.64315E-07,-73.95801625,40.62007976
+Playground,L/CPL Thomas P. Noonan Jr. Playground,Q044,0.002848833,4.74408E-07,-73.92249261,40.7410986
+Playground,La Guardia Playground,B167,0.002151464,1.81923E-07,-73.95974052,40.71045215
+Playground,Lafayette Gardens Playground,B317,0.002335731,3.18898E-07,-73.95751257,40.68979182
+Playground,Lafayette Playground,B023,0.002211477,2.33617E-07,-73.93007215,40.69255848
+Playground,Lefferts Playground,Q096E,0.012798742,2.68832E-06,-73.82058881,40.66533728
+Playground,Levy Playground,R033,0.001909365,2.13923E-07,-74.12893411,40.6339223
+Playground,Lewis Playground,B430,0.001087156,7.27931E-08,-73.93789003,40.69539891
+Playground,Linwood Playground,B149B,0.002975541,3.35353E-07,-73.88038146,40.66612481
+Playground,Lion's Pride Playground,B107,0.002685328,3.81668E-07,-73.89978566,40.66270346
+Playground,Little Claremont Park,X299,0.002236919,2.29426E-07,-73.90375349,40.83878806
+Playground,Little Flower Playground,M132,0.003213975,5.4884E-07,-73.98823338,40.7124348
+Playground,Long Island Mews,Q434,0.003665261,2.25581E-07,-73.8901065,40.73607817
+Playground,Lt. Federico Narvaez Tot Lot,B391,0.00084679,4.35579E-08,-73.96591564,40.64027407
+Playground,Lt. Joseph Petrosino Park,B099,0.002503543,3.76624E-07,-73.99851755,40.61912286
+Playground,Lt. Lia Playground,R111,0.003104995,5.81097E-07,-74.07985551,40.64356971
+Playground,Lyons Square Playground,X029,0.003150922,5.831E-07,-73.88807009,40.82276952
+Playground,MacArthur Park,M256,0.00178213,1.41849E-07,-73.96512107,40.75224613
+Playground,MacLaughlin Playground,X224,0.001839967,1.20534E-07,-73.90534721,40.88794506
+Playground,Marble Hill Playground,X202,0.0037498,7.87597E-07,-73.90815152,40.87748463
+Playground,Margaret I. Carman Green - Weeping Beech,Q022,0.005651937,1.12123E-06,-73.82464707,40.76339269
+Playground,Martin Luther King Jr. Playground,B056,0.004133029,1.00718E-06,-73.8904294,40.66769261
+Playground,Martin Luther Playground,B098,0.002555452,3.95435E-07,-74.01974085,40.64576682
+Playground,Mary O'Connor Playground,M203D,0.001373046,1.11974E-07,-73.97079977,40.74953881
+Playground,Matthews - Palmer Playground,M154,0.00190118,2.0422E-07,-73.99273382,40.76139956
+Playground,Matthews Muliner Playground,X178,0.002724702,4.43795E-07,-73.86150005,40.84691645
+Playground,Maurice A Fitzgerald Playground,Q337,0.003110439,4.94512E-07,-73.83976521,40.69031166
+Playground,Mazzei Playground,X157,0.003759344,6.74084E-07,-73.85846414,40.86253728
+Playground,McCaffrey Playground,M161,0.001925363,1.87999E-07,-73.9912787,40.75898693
+Playground,McLaughlin Playground,Q021B,0.001428,1.224E-07,-73.76628812,40.7255676
+Playground,Melrose Playground,X154,0.002664931,4.59094E-07,-73.91841084,40.8204598
+Playground,Merriam Playground,X153,0.009670561,1.28789E-06,-73.92678178,40.83965756
+Playground,Middleton Playground,B022,0.002814193,4.7215E-07,-73.95542188,40.70068331
+Playground,Millbrook Playground,X182,0.003012789,4.78719E-07,-73.91663948,40.80435601
+Playground,Minetta Playground,M125B,0.001385293,9.65172E-08,-74.0013155,40.73068254
+Playground,Morris Garden,X292,0.002466046,1.94275E-07,-73.90399731,40.85456916
+Playground,Morris Mesa,X148D1,0.002714512,1.41846E-07,-73.90995605,40.8452973
+Playground,Mother Cabrini Park,B390,0.00219316,2.12816E-07,-74.00490739,40.68437882
+Playground,Mount Hope Playground,X257,0.002464781,3.10589E-07,-73.90944343,40.85029908
+Playground,Murphy's Brother's Playground,M059,0.003796674,5.24188E-07,-73.97342871,40.73029428
+Playground,Nautilus Playground,B268,0.004988797,6.56595E-07,-73.99625608,40.57171125
+Playground,Nehemiah Park,B396,0.004968992,6.9475E-07,-73.90551788,40.66223569
+Playground,Nelson Playground,X168,0.003698309,5.18283E-07,-73.92684466,40.83479652
+Playground,Noble Playground,X123,0.004926331,1.4747E-06,-73.87223158,40.83730073
+Playground,Norelli-Hargreaves Playground,Q220B,0.004026882,5.99846E-07,-73.80879313,40.69021079
+Playground,North Pacific Playground,B356,0.001084463,7.08312E-08,-73.98212898,40.68530193
+Playground,Ogden Plimpton Playground,X287,0.001290295,1.00252E-07,-73.92373366,40.84189899
+Playground,Palmetto Playground,B223DA,0.00989792,6.96515E-07,-73.99920034,40.69214456
+Playground,Park,B255C,0.004931906,2.77017E-07,-73.98962493,40.66295343
+Playground,Park,Q483,0.000772095,3.57378E-08,-73.85832803,40.74377519
+Playground,Parkside Playground,X162,0.00242192,3.4661E-07,-73.86803073,40.86838253
+Playground,Pat Williams Playground,Q135,0.001493819,1.41347E-07,-73.72952316,40.71297009
+Playground,Paul Raimonda Playground,Q298,0.002991241,5.2028E-07,-73.89744885,40.77279841
+Playground,Peace Park,X148E,0.001655512,5.9276E-08,-73.90516898,40.84518622
+Playground,Pearl St Playground,M378,0.001832773,1.56156E-07,-74.00392262,40.70793081
+Playground,Penn Triangle,B223NC,0.001408577,1.02132E-07,-73.96085263,40.70076616
+Playground,People's Park,X103,0.004017499,6.13862E-07,-73.91700549,40.80948756
+Playground,Pfc Norton Playground,B208,0.002044494,2.39596E-07,-73.94490063,40.61457456
+Playground,Pink Playground,B309,0.002631034,4.1665E-07,-73.86267236,40.66655025
+Playground,Playground 115,Q136,0.001390155,1.20789E-07,-73.85260443,40.78522664
+Playground,Playground 174,X159,0.002679757,4.24832E-07,-73.87776174,40.8343605
+Playground,Playground of the Americas,M120B,0.000797288,3.82493E-08,-74.00272301,40.72800648
+Playground,Playground One Forty,Q220E,0.004102513,6.04708E-07,-73.80125075,40.67513779
+Playground,Playground Thirty Five XXXV,Q296,0.001287559,8.82866E-08,-73.92203185,40.7547997
+Playground,Plimpton Playground,X148A2,0.003054072,4.25692E-07,-73.92240504,40.84391982
+Playground,Poe Park,X040,0.004706467,1.07764E-06,-73.89459714,40.86480739
+Playground,Poppenhusen Playground,Q011,0.002820719,4.93897E-07,-73.84458904,40.78126111
+Playground,Powell Playground,B156,0.002701054,4.43954E-07,-73.90482238,40.67127313
+Playground,Private William Gray Park,Q439,0.00091564,3.02662E-08,-73.87082996,40.75787861
+Playground,Rainbow Playground,B265,0.00195413,2.1225E-07,-74.01107099,40.64054687
+Playground,Ramon Aponte Park,M288,0.001143875,7.65763E-08,-73.98935104,40.76144901
+Playground,Randall Playground,X203,0.002668853,4.52942E-07,-73.84959562,40.81930377
+Playground,Real Good Park,Q357B,0.004833602,7.29843E-07,-73.85735449,40.73555574
+Playground,Redfern Playground,Q345,0.003897502,8.77451E-07,-73.74947587,40.61134954
+Playground,Rev J Polite Playground,X116,0.005039298,7.79832E-07,-73.89703599,40.82709158
+Playground,River Avenue Parks,X348,0.003188293,2.626E-07,-73.92688725,40.8255061
+Playground,Robert Moses Playground,M158,0.004675945,4.81456E-07,-73.96930735,40.74814905
+Playground,Rodney Playground North,B223P05,0.001959939,1.39289E-07,-73.95497469,40.71109549
+Playground,Rodney Playground South,B223P03,0.001637017,1.49287E-07,-73.95591371,40.70971708
+Playground,Rolf Henry Playground,B148,0.001260954,9.85593E-08,-73.94750536,40.65580065
+Playground,Rudd Playground,B131,0.003559649,5.55222E-07,-73.90538011,40.68336018
+Playground,Sarsfield Playground,B207,0.002154008,2.41593E-07,-73.93750511,40.62019019
+Playground,Sarsfield Playground - Father Kehoe Triangle,B207,0.000457788,8.36431E-09,-73.9367803,40.62045031
+Playground,Schenck Playground,B261,0.002399405,3.49622E-07,-73.88616199,40.66557328
+Playground,Sedgwick Playground,X158,0.003605834,5.19072E-07,-73.92338136,40.84565121
+Playground,Sixteen Sycamores Playground,B137,0.00254306,2.23087E-07,-73.98100546,40.68678707
+Playground,Skyline Playground,R123,0.005187234,9.4948E-07,-74.08950751,40.63939237
+Playground,Slattery Playground,X085,0.002568253,4.04454E-07,-73.89848638,40.85730631
+Playground,Sledge Playground,B097,0.001555838,1.42125E-07,-73.89780431,40.63817795
+Playground,Sobel Court Park,R144,0.003645286,4.86808E-07,-74.08378705,40.61497844
+Playground,Sobel Playground,B090,0.001076823,6.47072E-08,-73.96149897,40.70735863
+Playground,Sophie Irene Loeb,M067,0.001200324,4.79177E-08,-73.99429868,40.71328103
+Playground,St. Gregory's Playground,M301,0.001340803,1.08917E-07,-73.97202956,40.78951271
+Playground,St. Mary's Park,B118B,0.001739685,1.65545E-07,-73.9975296,40.67578526
+Playground,St. Nicholas Playground North,M211B,0.00214625,2.72434E-07,-73.94662725,40.81222368
+Playground,St. Nicholas Playground South,M211A,0.003199092,3.13758E-07,-73.94725504,40.81104079
+Playground,Starr Playground,Q291,0.002661986,4.24841E-07,-73.91780371,40.70979232
+Playground,Sternberg Park,B055,0.005315801,1.74503E-06,-73.94722749,40.70622435
+Playground,Stop & Go Playground,X281,0.00222263,1.34677E-07,-73.89882181,40.84500697
+Playground,Sunners Playground,B206,0.001361179,8.86397E-08,-73.92961479,40.63249967
+Playground,Sunshine Playground,M292,0.001300771,1.01997E-07,-73.94784912,40.78848868
+Playground,Ten Eyck Plaza,B386,0.001808874,1.93322E-07,-73.94934328,40.70929666
+Playground,The Pearly Gates,X170,0.002198013,2.85485E-07,-73.84555692,40.83873154
+Playground,Thomas J. Cuite Park,B255H,0.00222909,1.73165E-07,-73.97867506,40.65423652
+Playground,Thorpe Family Playground,X302,0.001231738,9.24486E-08,-73.89487439,40.85622133
+Playground,Torsney Playground,Q340,0.005300848,8.86179E-07,-73.92159368,40.74737071
+Playground,Travers Park,Q303,0.003816729,8.43524E-07,-73.88934147,40.75397959
+Playground,Triborough Bridge Playground B,Q066B,0.003365937,6.60999E-07,-73.92306998,40.77461817
+Playground,Tudor Grove Playground,M203E,0.001196378,8.59677E-08,-73.97115162,40.7490483
+Playground,Turtle Playground,Q357G,0.002179234,2.05769E-07,-73.8274323,40.74213897
+Playground,Twenty-Four Sycamores Park,M108Q,0.002038052,2.48966E-07,-73.95865816,40.75944358
+Playground,Umma Park,B389,0.00237952,1.05007E-07,-73.9620335,40.65370013
+Playground,Underhill Playground,B161,0.002086463,2.68313E-07,-73.96571925,40.67666625
+Playground,Van Nest Park,X093,0.001946982,1.48874E-07,-73.8658012,40.84339822
+Playground,Veterans Grove,Q013,0.002367848,2.69762E-07,-73.87758544,40.74265412
+Playground,Vincent F. Albano Jr. Playground,M265,0.001866396,1.5179E-07,-73.97849383,40.74201477
+Playground,Virginia Playground,X148L,0.002623198,2.80155E-07,-73.86219717,40.83424925
+Playground,Walton Park,X291,0.001597564,1.50856E-07,-73.90518036,40.8552597
+Playground,Washington Hall Park,B220,0.002616371,4.10632E-07,-73.96678652,40.6953394
+Playground,Washington Park,X280,0.002416001,2.29188E-07,-73.8936087,40.85575522
+Playground,Webster Playground,X174,0.002505806,3.34752E-07,-73.89288969,40.859374
+Playground,Weeksville Playground,B093,0.001064101,6.60784E-08,-73.91947412,40.67715297
+Playground,West 4th Street Courts,M125C,0.001927794,1.60552E-07,-74.00091776,40.73121949
+Playground,White Playground,M148,0.002412948,2.96784E-07,-73.94590656,40.79164129
+Playground,William McCray Playground,M110,0.0019772,2.02043E-07,-73.93773443,40.81555292
+Playground,Woodtree Playground,Q332,0.002736457,4.47947E-07,-73.90236393,40.77752423
+Playground,Youth Village,X242,0.001740609,1.15819E-07,-73.90291851,40.82871656
+Playground,Zimmerman Playground,X087,0.002640959,4.2663E-07,-73.86874326,40.8661566
+Recreation Field/Courts,Alley Athletic Playground,Q001A,0.030397871,1.46043E-05,-73.73625013,40.73952215
+Recreation Field/Courts,Ambrosini Field,X253,0.007367951,1.4838E-06,-73.78392745,40.8443811
+Recreation Field/Courts,Baruch Playground,M165,0.004269103,1.04882E-06,-73.97681917,40.71730829
+Recreation Field/Courts,Bayside Fields,Q387A,0.004667597,1.10413E-06,-73.78570026,40.77296998
+Recreation Field/Courts,Bensonhurst Park,B007,0.016966068,7.41892E-06,-74.00126181,40.59654125
+Recreation Field/Courts,Bridge and Tunnel Park,Q360U,0.001465662,1.31748E-07,-73.95137045,40.74192545
+Recreation Field/Courts,Bridge Park,B223JC,0.005747332,5.98358E-07,-73.98532929,40.70030935
+Recreation Field/Courts,Broad Channel American Park,Q467,0.011657204,6.96953E-06,-73.82282697,40.59617932
+Recreation Field/Courts,Calvert Vaux Park,B125,0.034420279,3.37799E-05,-73.99490033,40.58471964
+Recreation Field/Courts,Castle Hill Little League,X239,0.004011742,8.95871E-07,-73.84403213,40.83243296
+Recreation Field/Courts,Chappetto Square,Q066H,0.002578906,3.14993E-07,-73.92238473,40.77502008
+Recreation Field/Courts,Co-op City Field,X251,0.005062886,1.47402E-06,-73.82370171,40.87580078
+Recreation Field/Courts,College Point Park,Q457,0.002191726,2.98171E-07,-73.84646668,40.785629
+Recreation Field/Courts,College Point Park,Q476,0.014711142,1.17586E-05,-73.83711683,40.77652341
+Recreation Field/Courts,Coney Island Boat Basin,B166C,0.012062098,7.98789E-06,-73.99010309,40.58270869
+Recreation Field/Courts,Cooney Grauer Field,X150I,0.003180323,5.99798E-07,-73.90142922,40.88028957
+Recreation Field/Courts,Dimattina Playground,B223A,0.008792874,9.51107E-07,-74.0025751,40.67981664
+Recreation Field/Courts,Dr. Charles R. Drew Park,Q220C,0.006665692,2.72872E-06,-73.8030354,40.68072066
+Recreation Field/Courts,Father Macris Park,R075A,0.014991681,6.63987E-06,-74.16162436,40.61669054
+Recreation Field/Courts,Field Of Dreams Park,X264,0.001164404,8.05099E-08,-73.89227577,40.82658572
+Recreation Field/Courts,Floyd Patterson Ballfields,B377,0.004293605,1.01156E-06,-73.90408326,40.66087927
+Recreation Field/Courts,Fort Hamilton Athletic Field,B192A,0.006793352,2.69629E-06,-74.03740087,40.62666555
+Recreation Field/Courts,Frederick Johnson Playground,M159,0.004955671,1.16055E-06,-73.93545746,40.82471765
+Recreation Field/Courts,Gemini Fields,Q094D,0.019680534,5.38124E-06,-73.85258625,40.67063294
+Recreation Field/Courts,Grand Canal Court,M222,0.001039778,6.51875E-08,-74.00503633,40.72230782
+Recreation Field/Courts,Harlem RBI,M271A,0.002470957,3.70609E-07,-73.94385709,40.7866425
+Recreation Field/Courts,Harlem River Park,M208D,0.008874659,2.51039E-06,-73.933965,40.80630937
+Recreation Field/Courts,Hunter's Point Park,Q471,0.009455629,9.42173E-07,-73.95338959,40.74381383
+Recreation Field/Courts,Jerome Playground South,X148C7,0.002225433,1.59388E-07,-73.91380346,40.84485851
+Recreation Field/Courts,Julio Carballo Fields,X260,0.005171958,1.44428E-06,-73.88926617,40.81560497
+Recreation Field/Courts,Kathy Reilly Triangle,B092,0.00535763,1.26959E-06,-74.01767451,40.62558326
+Recreation Field/Courts,La Guardia Playground,B167A,0.003078138,3.55375E-07,-73.95918636,40.70991854
+Recreation Field/Courts,Laguardia Landing Lights,Q393A,0.003519698,6.91065E-07,-73.88993214,40.76214683
+Recreation Field/Courts,Leif Ericson Fields,B146,0.00367196,7.57334E-07,-74.0134778,40.63269196
+Recreation Field/Courts,Lillian D Wald Playground,M064,0.002737688,2.88337E-07,-73.98434385,40.71205511
+Recreation Field/Courts,Linnaeus Park,Q388,0.004431481,8.73409E-07,-73.75073835,40.75380384
+Recreation Field/Courts,Mapes Ballfield,X289,0.004365974,7.89357E-07,-73.88579746,40.84722242
+Recreation Field/Courts,Marcy Park South,B223OB,0.002592056,1.57087E-07,-73.95805833,40.70751543
+Recreation Field/Courts,Martinez Playground,B127,0.004120609,9.01592E-07,-73.9443679,40.70910393
+Recreation Field/Courts,McDonald Playground,R034,0.003672896,5.82653E-07,-74.11525584,40.62960888
+Recreation Field/Courts,McGuire Fields,B166D,0.044969629,3.39371E-05,-73.89944559,40.61316623
+Recreation Field/Courts,McLaughlin Park,B061,0.004650655,8.90256E-07,-73.98600498,40.6965134
+Recreation Field/Courts,Monsignor Crawford Field,B147,0.005415805,8.84764E-07,-73.91644924,40.61430892
+Recreation Field/Courts,Newtown Barge Playground,B135,0.002831222,5.14531E-07,-73.96012536,40.73591904
+Recreation Field/Courts,Parade Ground,B068,0.017946461,1.61329E-05,-73.96851041,40.65077778
+Recreation Field/Courts,Park,Q133A,0.003288939,8.11217E-07,-73.72876425,40.71073219
+Recreation Field/Courts,Pelham Bay Little League,X256,0.002952138,4.72099E-07,-73.83938936,40.84157141
+Recreation Field/Courts,Poseidon Playground,B169B,0.004629874,1.24379E-06,-73.99209047,40.57242607
+Recreation Field/Courts,Pulaski Park,X041,0.00403486,6.68177E-07,-73.92455635,40.80523266
+Recreation Field/Courts,Quarry Ballfields,X263,0.007070902,1.90824E-06,-73.89088605,40.85086841
+Recreation Field/Courts,Queensboro Oval,M070,0.003055085,5.42558E-07,-73.96007706,40.75921504
+Recreation Field/Courts,Rainey Park,X255,0.00787616,3.32889E-06,-73.89748988,40.81879801
+Recreation Field/Courts,Roberto Clemente Ballfield,B382A,0.003611518,8.10836E-07,-73.96767013,40.70634402
+Recreation Field/Courts,Rodney Park Center,B223P01,0.001754475,1.36379E-07,-73.95674187,40.70845616
+Recreation Field/Courts,Rodney Park North,B223P02,0.001760345,1.73081E-07,-73.95632204,40.70907264
+Recreation Field/Courts,Rodney Park North,B223Pb,0.000862262,4.53688E-08,-73.9564473,40.70893624
+Recreation Field/Courts,Rodney Park South,B223OC,0.001884664,1.7423E-07,-73.95726307,40.70753274
+Recreation Field/Courts,Sherry Park,Q341C,0.001755693,1.75734E-07,-73.89881084,40.74137045
+Recreation Field/Courts,South Shore Country Club,R104,0.039178369,7.75929E-05,-74.20542317,40.55075259
+Recreation Field/Courts,Southern Fields,Q096A,0.011106445,3.56572E-06,-73.8257225,40.66564081
+Recreation Field/Courts,Southern Fields,Q096B,0.005688283,9.61625E-07,-73.82312512,40.66545842
+Recreation Field/Courts,Sports Park,R075D,0.006916038,2.05301E-06,-74.11975986,40.60950504
+Recreation Field/Courts,St. Mary's Park,B118A,0.001737976,1.49206E-07,-73.99721985,40.6764344
+Recreation Field/Courts,Sutter Ballfields,B419,0.00365398,8.00441E-07,-73.88757098,40.67116548
+Recreation Field/Courts,Tribeca Dog Run,M366,0.000944604,4.61265E-08,-74.01207554,40.71621937
+Recreation Field/Courts,Triborough Bridge Playground C,Q066C,0.002106954,2.4686E-07,-73.92224635,40.77397324
+Recreation Field/Courts,Triborough Bridge Playground D,Q066D,0.002078281,2.41672E-07,-73.92153915,40.77347522
+Recreation Field/Courts,Triborough Bridge Playground E,Q066E,0.002122895,2.50643E-07,-73.92085984,40.77299653
+Recreation Field/Courts,Vito Locascio Field,Q095,0.007218787,1.51918E-06,-73.84372334,40.6699584
+Recreation Field/Courts,Walker Park,R015,0.00630119,2.28172E-06,-74.10945789,40.64332716
+Recreation Field/Courts,Wards Island Park,M107,0.079816046,4.41982E-05,-73.92926859,40.78498522
+Recreation Field/Courts,West 186th Street Basketball Court,M304,0.000954524,4.94982E-08,-73.9309292,40.8518783
+Recreation Field/Courts,Whitey Ford Field,Q215,0.00487728,1.27932E-06,-73.93479982,40.77751559
+Recreation Field/Courts,William F. Passannante Ballfield,M120A,0.002349479,2.76135E-07,-74.00225727,40.72855825
+Triangle/Plaza,14 Honey Locusts Park,M177,0.002167455,1.37832E-07,-73.96284285,40.76016468
+Triangle/Plaza,A Philip Randolph Square,M021,0.000979515,4.78539E-08,-73.95246405,40.80384265
+Triangle/Plaza,Abe Lebewohl Park,M188,0.0013934,6.7286E-08,-73.98699352,40.73003825
+Triangle/Plaza,Abe Lebewohl Triangle,M188A,0.000342238,4.95093E-09,-73.98780595,40.73008525
+Triangle/Plaza,Abingdon Square,M001,0.001413604,9.57852E-08,-74.00541739,40.73731978
+Triangle/Plaza,Ahearn Park,M002,0.001121607,4.22742E-08,-73.98351067,40.71477917
+Triangle/Plaza,Aimee Triangle,B231,0.000362202,8.30014E-09,-73.9772436,40.61112604
+Triangle/Plaza,Aimee Triangle,B273,0.000966977,4.94517E-08,-73.9440187,40.6130072
+Triangle/Plaza,Alben Triangle,B123,0.000626308,1.76707E-08,-73.99454949,40.639403
+Triangle/Plaza,Amundsen Circle,R009,0.002349283,3.48222E-07,-74.13101588,40.56463501
+Triangle/Plaza,Anchorage Plaza,B223I,0.012204573,9.45672E-07,-73.99105041,40.70153513
+Triangle/Plaza,Arbor Place,B223MA,0.000850396,2.60117E-08,-73.98060014,40.69602161
+Triangle/Plaza,Barnhill Square,X001B,0.000699915,3.07867E-08,-73.89967813,40.86810781
+Triangle/Plaza,Barone Triangle,B190,0.001055713,6.28906E-08,-73.90742579,40.62006395
+Triangle/Plaza,Barrett Triangle,R004,0.001441482,6.91555E-08,-74.07584116,40.64179152
+Triangle/Plaza,Barry Plaza,X130,0.001059095,4.56624E-08,-73.90482156,40.84311082
+Triangle/Plaza,Bartel-Pritchard Square,B003,0.001305625,1.31854E-07,-73.97986948,40.66099964
+Triangle/Plaza,Beach Street Park,M006,0.001989509,1.09316E-07,-74.00557219,40.72019977
+Triangle/Plaza,Beatty Plaza,X062,0.000935697,3.59241E-08,-73.90178068,40.83154729
+Triangle/Plaza,Bell Tower Park,X110D,0.000815629,4.21152E-08,-73.9083752,40.88925249
+Triangle/Plaza,Benjamin Gladstone Square,X022,0.00104607,5.20758E-08,-73.89099039,40.82536086
+Triangle/Plaza,Bergen Triangle,X006,0.001611098,9.64637E-08,-73.90132507,40.85474014
+Triangle/Plaza,Bowling Green,M007,0.002430039,3.23125E-07,-74.01361974,40.70507615
+Triangle/Plaza,Brinkerhoff Mall,Q447,0.002425105,2.38485E-07,-73.78213855,40.69571031
+Triangle/Plaza,British Garden at Hanover Square,M212,0.001337012,6.08615E-08,-74.00935291,40.70477564
+Triangle/Plaza,Brooklyn Heights Promenade,B223DE,0.001676221,1.22057E-07,-73.99777072,40.69574052
+Triangle/Plaza,Brooklyn Heights Promenade,B223DG,0.003957738,1.43189E-07,-73.99728409,40.69739795
+Triangle/Plaza,Brooklyn Heights Promenade,B223DH,0.001295987,6.2766E-08,-73.996557,40.69886419
+Triangle/Plaza,Brooklyn Heights Promenade,B223DI,0.001952657,3.78579E-08,-73.99627001,40.69909828
+Triangle/Plaza,Brooklyn Heights Promenade,B223DJ,0.001258114,3.27756E-08,-73.99631774,40.69942073
+Triangle/Plaza,Brooklyn Heights Promenade,B223DK,0.010022185,4.58882E-07,-73.997319,40.69751607
+Triangle/Plaza,Bryan Park,X005,0.001262378,6.76959E-08,-73.89418098,40.86213925
+Triangle/Plaza,Bryant Triangle,X064,0.000975907,4.09263E-08,-73.88857777,40.82661273
+Triangle/Plaza,Bushman Steps,M127,0.000751768,3.37697E-08,-73.94030707,40.83213242
+Triangle/Plaza,Captain Dermody Triangle,Q316,0.001409843,8.28956E-08,-73.76450094,40.75576551
+Triangle/Plaza,Catharine Turner Richardson Park,Q059,0.00261613,2.48873E-07,-73.74718117,40.76823612
+Triangle/Plaza,Catholic War Veterans Square,Q148,0.000923819,3.10186E-08,-73.81627434,40.67589867
+Triangle/Plaza,Charlton Plaza,M125E,0.000860228,2.02535E-08,-74.00352756,40.72729214
+Triangle/Plaza,Christopher Park,M012,0.00197412,1.1544E-07,-74.00230575,40.73358397
+Triangle/Plaza,Ciccarone Park,X102,0.002332809,3.3268E-07,-73.88671101,40.85596642
+Triangle/Plaza,Classon Triangle,B223NB,0.00162761,1.17047E-07,-73.9610821,40.69922046
+Triangle/Plaza,Clemens Triangle,Q056,0.000467147,1.4014E-08,-73.90588433,40.70006801
+Triangle/Plaza,Collect Pond Park,M242,0.002580275,4.19692E-07,-74.00181428,40.71633589
+Triangle/Plaza,Colonel Charles Young Triangle,M035,0.002532433,3.83175E-07,-73.93572705,40.82722532
+Triangle/Plaza,Columbus Park,B113C,0.009446761,2.50203E-06,-73.98995508,40.69366252
+Triangle/Plaza,Columbus Square,Q137,0.001008027,4.18879E-08,-73.91761292,40.77009779
+Triangle/Plaza,Continental Army Plaza,B168,0.001814344,2.26798E-07,-73.96043761,40.71058476
+Triangle/Plaza,Convent Garden,M284,0.001260525,6.93523E-08,-73.94266827,40.82835857
+Triangle/Plaza,Cooper Triangle,M016,0.001454427,9.72991E-08,-73.9907647,40.72878655
+Triangle/Plaza,Corporal Wiltshire Square,B205,0.001149878,3.82375E-08,-73.95322242,40.61085745
+Triangle/Plaza,Court Square Park,Q267,0.002194997,2.9204E-07,-73.94339827,40.74630265
+Triangle/Plaza,Crescent Park,X150H,0.002530381,2.13597E-07,-73.90210114,40.87974883
+Triangle/Plaza,Cutinella Triangle,B289,0.000742435,3.293E-08,-73.97682922,40.59183889
+Triangle/Plaza,D'Auria-Murphy Triangle,X068,0.001386525,9.22713E-08,-73.88910598,40.85323313
+Triangle/Plaza,D'Onofrio Square,X084,0.002648489,1.68326E-07,-73.86493881,40.8801514
+Triangle/Plaza,Dag Hammarskjold Plaza,M203C,0.005217995,7.26387E-07,-73.96885787,40.75232322
+Triangle/Plaza,Dahill Triangle,B175,0.000646146,2.77307E-08,-73.97498174,40.6128922
+Triangle/Plaza,Daniel Carter Beard Mall,Q100A,0.003016976,1.37953E-07,-73.82931023,40.7636288
+Triangle/Plaza,Dante Park,M020,0.001217357,7.21845E-08,-73.98253556,40.7718408
+Triangle/Plaza,David J O'Connell Square,Q203,0.001118433,6.76411E-08,-73.82063308,40.6765488
+Triangle/Plaza,DeLury Square,M385,0.001263855,9.30764E-08,-74.00503308,40.70908804
+Triangle/Plaza,Devanney Triangle,X129,0.002048441,9.53788E-08,-73.90452536,40.85252758
+Triangle/Plaza,Dodgers Triangle,R060,0.000492859,1.28748E-08,-74.11952019,40.61479487
+Triangle/Plaza,Donnellan Square,M023,0.001493141,8.93638E-08,-73.94272608,40.82697469
+Triangle/Plaza,Doughboy Plaza,Q031A,0.004228835,7.00841E-07,-73.909031,40.74649349
+Triangle/Plaza,Duane Park,M025,0.001231494,7.27895E-08,-74.00936866,40.71717626
+Triangle/Plaza,Duarte Square,M279,0.002195157,1.85605E-07,-74.00549229,40.72249852
+Triangle/Plaza,Dunningham Triangle,Q058,0.000502353,1.46545E-08,-73.88357973,40.74637426
+Triangle/Plaza,Dwyer Square,Q232,0.001020244,3.10658E-08,-73.91513277,40.75391894
+Triangle/Plaza,Each One Teach One,M208B,0.00140243,2.36268E-08,-73.93527399,40.80705469
+Triangle/Plaza,Fairmount Playground,X148H2,0.001837462,1.42633E-07,-73.88943642,40.84270116
+Triangle/Plaza,Father Demo Square,M191,0.001609059,1.22839E-07,-74.00214759,40.73023534
+Triangle/Plaza,Father Duffy Square,M093,0.001894949,2.16291E-07,-73.98512017,40.75903255
+Triangle/Plaza,Father Fagan Park,M207,0.001633141,7.88325E-08,-74.00335942,40.72667333
+Triangle/Plaza,Father Giorgio Triangle,B223T,0.000697857,2.9038E-08,-73.94990337,40.71626017
+Triangle/Plaza,Five Parks (FDR Drive),M108P,0.006116839,3.46646E-07,-73.96101713,40.75611772
+Triangle/Plaza,Fleetwood Triangle,Q062,0.000962472,3.90475E-08,-73.86721068,40.72270734
+Triangle/Plaza,Flight 587 Memorial Park,Q494,0.001219043,6.82978E-08,-73.83614051,40.57792836
+Triangle/Plaza,Flood Triangle,X061,0.000789693,2.91208E-08,-73.89090093,40.85834663
+Triangle/Plaza,Flushing Greens,Q100,0.004182299,3.11926E-07,-73.83101078,40.7631807
+Triangle/Plaza,Foch Sitting Area,Q220D,0.00151772,7.79076E-08,-73.80234615,40.67756929
+Triangle/Plaza,Fort Hamilton Triangle,B033,0.001040022,3.20807E-08,-74.03077408,40.616398
+Triangle/Plaza,Fort Stirling Park,B036,0.002188529,8.89417E-08,-73.99656176,40.69849222
+Triangle/Plaza,Fraser Square,B173,0.002023473,2.88986E-07,-73.94122784,40.6199711
+Triangle/Plaza,Freedom Triangle,B037,0.00103208,4.3161E-08,-73.93182476,40.69725539
+Triangle/Plaza,Fresh Meadows Park,Q223,0.004058177,4.79681E-07,-73.78535172,40.74069681
+Triangle/Plaza,Fruit Street Sitting Area,B223E,0.002524806,1.68322E-07,-73.99576616,40.69994898
+Triangle/Plaza,Gaeta Park,R126,0.005092436,7.70467E-07,-74.14941995,40.61005412
+Triangle/Plaza,Garlinge Triangle,Q019,0.000935289,3.94948E-08,-73.89091023,40.72832968
+Triangle/Plaza,Gladys Warren Triangle,Q325,0.001249099,7.28083E-08,-73.76421851,40.70727193
+Triangle/Plaza,Glenwood Landing,Q222,0.001015,4.58084E-08,-73.73997458,40.77511377
+Triangle/Plaza,Gordon Triangle,Q018,0.000913316,4.39413E-08,-73.95199087,40.74877835
+Triangle/Plaza,Graham Triangle,X023,0.001933093,1.2146E-07,-73.92753333,40.81060933
+Triangle/Plaza,Grand Army Plaza,B040,0.018217033,3.99132E-06,-73.97010078,40.67408355
+Triangle/Plaza,Grand Army Plaza,M062,0.002205892,3.13368E-07,-73.97356656,40.76410524
+Triangle/Plaza,Grand Slope,Q151,0.002617274,7.3981E-08,-73.88303696,40.73442492
+Triangle/Plaza,Grant Gore,B041,0.000710604,2.22808E-08,-73.95279798,40.6764639
+Triangle/Plaza,Gravesend Triangle,B213,0.000846396,4.20307E-08,-73.96936494,40.59502486
+Triangle/Plaza,Greeley Square Park,M032,0.001408954,7.81045E-08,-73.98831885,40.74864653
+Triangle/Plaza,Greenstreet,B176,0.000709951,2.51005E-08,-73.92959418,40.616234
+Triangle/Plaza,Greenstreet,Q225,0.00464103,3.07598E-07,-73.81889429,40.61107206
+Triangle/Plaza,Hancock Park,M034,0.000739586,3.03278E-08,-73.95327132,40.80953603
+Triangle/Plaza,Harlem River Park,M208C,0.002534263,1.59413E-07,-73.93455405,40.80775514
+Triangle/Plaza,Hawkins Park,X107,0.001134967,8.13151E-08,-73.78648898,40.84659279
+Triangle/Plaza,Hempstead Bench Spread,Q133B,0.001781793,1.21475E-07,-73.72961576,40.71048304
+Triangle/Plaza,Herald Square,M036,0.001588736,1.02659E-07,-73.98764813,40.7502795
+Triangle/Plaza,Howard Malls,B182,0.000975923,5.32446E-08,-73.9198657,40.66392059
+Triangle/Plaza,Hugh J. Grant Circle,X025,0.002610389,5.2662E-07,-73.86095579,40.8331294
+Triangle/Plaza,Inwood Park,X148C3,0.002978805,1.64955E-07,-73.91531705,40.8448068
+Triangle/Plaza,Jackson Mill Green,Q186,0.00159997,5.85418E-08,-73.87575825,40.76642504
+Triangle/Plaza,Jackson Square,M044,0.001480814,9.827E-08,-74.00283353,40.73894359
+Triangle/Plaza,James Madison Plaza,M255,0.001781727,1.70393E-07,-74.00043646,40.71146975
+Triangle/Plaza,Joan Of Arc Park,M048,0.005566176,7.03279E-07,-73.97652456,40.7941309
+Triangle/Plaza,John Vincent Daniels Jr. Square,Q065,0.00238069,1.5011E-07,-73.91345103,40.74416115
+Triangle/Plaza,Johnny Hartman Square,M040,0.000461068,8.18914E-09,-73.94861725,40.82412095
+Triangle/Plaza,Joseph Manna Park,R127,0.003644318,4.60153E-07,-74.1769519,40.62581924
+Triangle/Plaza,Judge Angelo Graci Triangle,Q424,0.001849207,1.3324E-07,-73.85866378,40.67446051
+Triangle/Plaza,Keltch Park,X058,0.001357595,5.62195E-08,-73.91771539,40.84061717
+Triangle/Plaza,Ketchum Triangle,B160,0.000692693,2.23069E-08,-73.9823073,40.60550303
+Triangle/Plaza,Kimlau Square,M246,0.00113959,6.88961E-08,-73.99802826,40.7133962
+Triangle/Plaza,Korean War Veterans Plaza,B113B,0.002988003,5.27345E-07,-73.99050023,40.6956187
+Triangle/Plaza,Lady Moody Triangle,B211,0.001090951,3.27091E-08,-73.97438235,40.59672847
+Triangle/Plaza,Lafayette Square,M090,0.000676551,1.98342E-08,-73.9580226,40.80366455
+Triangle/Plaza,Laguardia Landing Lights,Q393B,0.001181128,5.39225E-08,-73.88918109,40.76263686
+Triangle/Plaza,Lawrence Triangle,Q209,0.00083447,3.63899E-08,-73.81569668,40.75589526
+Triangle/Plaza,Legion Triangle,Q076,0.001229356,6.6937E-08,-73.8666689,40.68642012
+Triangle/Plaza,Lincoln Center Plaza,M232,0.016516509,1.71839E-06,-73.9836896,40.77263453
+Triangle/Plaza,Linden Setting Area,B171,0.001361297,7.3327E-08,-73.91845072,40.65402984
+Triangle/Plaza,Locust Grove Civic Triangle,Q096A,0.002878928,1.45946E-07,-73.82321323,40.66629742
+Triangle/Plaza,Lt. Clinton L .Whiting Square,Q257,0.000908091,3.54635E-08,-73.85822841,40.68725066
+Triangle/Plaza,Lt. Frank McConnell Park,Q217,0.001799779,8.46673E-08,-73.82740494,40.69396507
+Triangle/Plaza,Lt. Wm. Tighe Triangle,M180,0.00127104,7.99696E-08,-73.92800662,40.86581638
+Triangle/Plaza,Machate Circle,B070,0.002215784,3.80076E-07,-73.97218955,40.65102615
+Triangle/Plaza,Major General John R Brown Triangle,X079,0.001213526,6.00443E-08,-73.90413866,40.86963426
+Triangle/Plaza,Major Mark Park,Q025,0.00298474,4.08201E-07,-73.78851864,40.71166755
+Triangle/Plaza,Manuel De Dios Unanue Triangle,Q462,0.000450419,9.08016E-09,-73.88279784,40.74757294
+Triangle/Plaza,Maple Grove Park,Q220F,0.004911174,7.71046E-07,-73.82402943,40.71192339
+Triangle/Plaza,Marcy Green Center,B223QB,0.001960285,2.16488E-07,-73.95703874,40.70931834
+Triangle/Plaza,Marcy Green North,B223QC,0.001732711,1.69027E-07,-73.95663985,40.70998276
+Triangle/Plaza,Marcy Green South,B223QA,0.001969642,1.1191E-07,-73.95733052,40.70876379
+Triangle/Plaza,Martin Luther King Triangle,X063,0.000981956,5.73368E-08,-73.90308682,40.81098235
+Triangle/Plaza,Martin Luther King Triangle,X067,0.001018208,4.95085E-08,-73.92335543,40.83830834
+Triangle/Plaza,McKenna Square,M156,0.002479607,1.57233E-07,-73.9392344,40.83837307
+Triangle/Plaza,McKinley Square,X031,0.001293505,7.12727E-08,-73.90071773,40.83110965
+Triangle/Plaza,Meucci Triangle,B242,0.000584211,1.55188E-08,-73.98325799,40.59572972
+Triangle/Plaza,Middleburgh Triangle,Q069,0.000739287,2.2158E-08,-73.87508854,40.74129809
+Triangle/Plaza,Minetta Green,M125A,0.000801216,3.083E-08,-74.00157666,40.73033262
+Triangle/Plaza,Minetta Triangle,M125D,0.000826569,3.45459E-08,-74.00184498,40.72986621
+Triangle/Plaza,Mitchel Square,M054,0.002898952,3.44719E-07,-73.94000005,40.8401703
+Triangle/Plaza,Monsignor Raul Del Valle Square,X009,0.002924704,2.89878E-07,-73.89081754,40.82077485
+Triangle/Plaza,Montefiore Square,M055,0.002112657,1.74072E-07,-73.95352865,40.82157118
+Triangle/Plaza,Mt. Carmel Triangle,B226,0.001124072,6.66555E-08,-73.95166863,40.71584231
+Triangle/Plaza,Muller Triangle,X035,0.000532968,1.71825E-08,-73.89813263,40.86250271
+Triangle/Plaza,Myrtle Avenue Clemens Triangle,Q124,0.000501244,1.01667E-08,-73.90658437,40.70019801
+Triangle/Plaza,Nassau Mall,Q357I,0.003770025,4.20415E-07,-73.72490436,40.76469239
+Triangle/Plaza,Nassau Mall South,Q357J,0.002631855,2.35839E-07,-73.72611467,40.76313986
+Triangle/Plaza,Nine Heroes Plaza,Q060,0.000564929,1.63888E-08,-73.88910995,40.74554008
+Triangle/Plaza,North Shore Esplanade,R066,0.010449261,7.68007E-07,-74.08091244,40.64745591
+Triangle/Plaza,One Room Schoolhouse Park,Q116,0.001181805,6.23689E-08,-73.87942061,40.76332186
+Triangle/Plaza,Park,B174,0.001257403,7.85203E-08,-73.92102005,40.65468556
+Triangle/Plaza,Park,B210G,0.001673176,1.24415E-07,-73.99502927,40.66732579
+Triangle/Plaza,Park,B233,0.00364843,2.17525E-07,-73.98555583,40.69809899
+Triangle/Plaza,Park,B255L,0.002052933,2.1113E-07,-73.97754843,40.65241956
+Triangle/Plaza,Park,B255M,0.001384895,9.21341E-08,-73.97399536,40.65090754
+Triangle/Plaza,Park,B255N,0.001036456,5.4845E-08,-73.97352411,40.65004323
+Triangle/Plaza,Park,B255O,0.00073157,2.37792E-08,-73.98185637,40.65694867
+Triangle/Plaza,Park,B537,0.000406325,6.23584E-09,-73.96183265,40.68255326
+Triangle/Plaza,Park,M108H,0.000500373,1.45057E-08,-73.94441008,40.78072373
+Triangle/Plaza,Park,Q500,0.000407751,9.32707E-09,-73.89577589,40.72913225
+Triangle/Plaza,Park,X091,0.002127373,1.67242E-07,-73.92194567,40.8801245
+Triangle/Plaza,Park,X148B2,0.000921692,1.88179E-08,-73.91701456,40.84475384
+Triangle/Plaza,Park,X150M,0.000872716,3.95742E-08,-73.90825769,40.86591011
+Triangle/Plaza,Patricia A. Brackley Park,Q275,0.001375266,6.9059E-08,-73.8457771,40.58139874
+Triangle/Plaza,Peck Slip,M167,0.00135159,1.0237E-07,-74.00136405,40.70758057
+Triangle/Plaza,Petrosino Square,M170,0.001063474,4.77481E-08,-73.99745418,40.72174693
+Triangle/Plaza,Planeview Park,Q393I,0.003230556,4.19306E-07,-73.88437656,40.7673312
+Triangle/Plaza,Pleasant Plains Plaza,R002,0.001142099,2.19549E-08,-74.21608067,40.52393771
+Triangle/Plaza,Poppenhusen Park,Q042,0.000798322,3.20334E-08,-73.84582227,40.78786605
+Triangle/Plaza,Proctor-Hopson Circle,Q043,0.001272155,5.95263E-08,-73.7862597,40.69789424
+Triangle/Plaza,Public Place,B290,0.002321694,8.93724E-08,-73.86513491,40.67829333
+Triangle/Plaza,Queens Village Veterans Plaza,Q047,0.001760516,1.27476E-07,-73.73585165,40.71804752
+Triangle/Plaza,Ralph Bunche Park,M203B,0.002060436,1.77967E-07,-73.96974588,40.74933367
+Triangle/Plaza,Richard Tucker Square,M051,0.00090207,3.51852E-08,-73.98188832,40.77354431
+Triangle/Plaza,Rita Ley Triangle,X096,0.000551494,1.24499E-08,-73.87313894,40.89912277
+Triangle/Plaza,Roosevelt Triangle,M189,0.000878941,3.32027E-08,-73.95437278,40.81132968
+Triangle/Plaza,Rose Hill Park,X042,0.004338805,3.41792E-07,-73.89035096,40.86208571
+Triangle/Plaza,Sam Leggio Triangle,B278,0.000720892,2.84633E-08,-73.88195991,40.68507866
+Triangle/Plaza,Seeley Park,B255J,0.00261601,1.63447E-07,-73.97782812,40.65337755
+Triangle/Plaza,Septuagesimo UNO,M282,0.000705004,1.54172E-08,-73.9843539,40.77860835
+Triangle/Plaza,Sergeant Collins Triangle,Q501,0.001143988,4.89209E-08,-73.90289416,40.75179305
+Triangle/Plaza,Sergeant Colyer Square,Q231,0.001060809,4.24579E-08,-73.80565636,40.67492374
+Triangle/Plaza,Sgt. Joyce Kilmer Triangle,B094,0.000685522,1.29867E-08,-73.96072781,40.60787387
+Triangle/Plaza,Sheridan Square Viewing Garden,M287,0.000948231,3.02821E-08,-74.00211189,40.73300832
+Triangle/Plaza,Sheridan Triangle,X060,0.0008393,4.241E-08,-73.89665473,40.90489732
+Triangle/Plaza,Sherman Square,M083,0.000729615,2.87773E-08,-73.9823365,40.77737279
+Triangle/Plaza,Sitting Area,Q066G,0.002877466,2.80386E-07,-73.92303647,40.77604222
+Triangle/Plaza,Sitting Area,Q360R,0.000571346,1.2693E-08,-73.8889905,40.7262988
+Triangle/Plaza,Sitting Area,Q360T,0.000936512,1.76047E-08,-73.88698096,40.72848012
+Triangle/Plaza,Sitting Area 127 CXXVII,Q360Q,0.001064574,3.19263E-08,-73.8921188,40.72501521
+Triangle/Plaza,Sixteen Lindens Triangle,B166E,0.00229026,1.83295E-07,-73.95234597,40.58436504
+Triangle/Plaza,Sixteen Oaks Grove,Q284,0.001553102,1.10398E-07,-73.93835069,40.75851509
+Triangle/Plaza,St. George Park,R077,0.000836049,4.05029E-08,-74.07787298,40.64454328
+Triangle/Plaza,St. James Triangle,M247,0.000750656,2.41105E-08,-73.99854096,40.71270235
+Triangle/Plaza,Steinmann Triangle,Q061,0.001390139,7.91598E-08,-73.90926364,40.74517681
+Triangle/Plaza,Straus Park,M085,0.001738894,1.4627E-07,-73.96816079,40.8018694
+Triangle/Plaza,Straus Square,M224,0.001044861,5.20782E-08,-73.98994258,40.71421688
+Triangle/Plaza,Sunnyside Veterans Triangle,Q034,0.003132178,1.99608E-07,-73.91590272,40.74283195
+Triangle/Plaza,Targee Street Triangle,R164,0.002525083,1.08741E-07,-74.08780754,40.60864926
+Triangle/Plaza,Technical Sergeant Thomas J. Davey Triangle,Q360F,0.00128339,6.68698E-08,-73.90061041,40.72635411
+Triangle/Plaza,Thomas Paine Park,M030,0.005559527,8.0435E-07,-74.00261154,40.71471654
+Triangle/Plaza,Tom McDonald Triangle,B338,0.000723688,2.67058E-08,-74.0226075,40.62191161
+Triangle/Plaza,Tramway Plaza,M280,0.001913211,1.94733E-07,-73.96436397,40.76102552
+Triangle/Plaza,Travis Triangle,Q246,0.002007653,9.81051E-08,-73.81309792,40.7668394
+Triangle/Plaza,Triangle,B155,0.000365725,7.73835E-09,-73.87743388,40.66872798
+Triangle/Plaza,Triangle,B229,0.00079693,3.38282E-08,-73.91677027,40.61663205
+Triangle/Plaza,Trygve Lie Plaza,M203A,0.001368288,4.88934E-08,-73.97036536,40.74858367
+Triangle/Plaza,Tucker Place,B240,0.001025607,5.30676E-08,-73.94138708,40.58350354
+Triangle/Plaza,Union Square Park,M089,0.008865793,2.78452E-06,-73.99041675,40.73583606
+Triangle/Plaza,University Place,B378,0.003993572,4.64369E-07,-73.98157576,40.69104157
+Triangle/Plaza,Van Cortlandt's Tail,X150L,0.002039585,2.19579E-07,-73.89972511,40.88611002
+Triangle/Plaza,Verdi Square,M097,0.001447532,9.15094E-08,-73.98153337,40.77913385
+Triangle/Plaza,Veterans Triangle,B027,0.001052629,5.55894E-08,-73.90385092,40.65690463
+Triangle/Plaza,Veterns Circle,Q259,0.001811538,6.46866E-08,-73.84098989,40.57854685
+Triangle/Plaza,Vietnam Veterans Plaza,M046,0.002774019,3.40709E-07,-74.00994374,40.70258676
+Triangle/Plaza,Walt Whitman Park,B113E,0.0042794,1.09613E-06,-73.98935502,40.69822431
+Triangle/Plaza,Wellbrook Triangle,Q079,0.00042855,9.40385E-09,-73.83357438,40.67887987
+Triangle/Plaza,Whalen Park,X180,0.001811893,1.42285E-07,-73.87779895,40.87436883
+Triangle/Plaza,Williamsbridge Square,X095,0.005723814,7.13381E-07,-73.86645306,40.87755562
+Triangle/Plaza,Winfield Plaza,Q341F,0.000873602,3.64938E-08,-73.89590766,40.74292818
+Triangle/Plaza,Worth Square,M101,0.001480498,1.20724E-07,-73.9889714,40.74268767
+Triangle/Plaza,Zion Triangle,B116,0.001574751,8.67703E-08,-73.91867744,40.66869443

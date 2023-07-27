@@ -1,0 +1,28 @@
+park_type,income_group,before,during,mean_diff,diff_lb,diff_ub,mean_diff_pct,diff_lb_pct,diff_ub_pct,groups_before,groups_during
+Community Park,lower,5.6,4.95,-0.65,-0.69,-0.62,-11.68,-12.35,-11.02,a,a
+Flagship Park,lower,6.05,5.5,-0.55,-0.58,-0.51,-9.03,-9.65,-8.41,a,a
+Jointly Operated Playground,lower,4.36,4.27,-0.09,-0.14,-0.05,-2.17,-3.1,-1.23,a,a
+Nature Area,lower,7.22,7.44,0.22,0.08,0.36,3.04,1.12,4.96,a,a
+Neighborhood Park,lower,5.33,4.6,-0.72,-0.76,-0.69,-13.56,-14.18,-12.93,a,a
+Playground,lower,3.99,3.81,-0.18,-0.22,-0.14,-4.52,-5.41,-3.62,a,a
+Recreation Field/Courts,lower,5.52,4.2,-1.31,-1.38,-1.25,-23.83,-25.09,-22.56,a,a
+Triangle/Plaza,lower,7.3,6.15,-1.15,-1.23,-1.08,-15.81,-16.84,-14.78,a,a
+Overall,lower,5.3,4.73,-0.57,-0.58,-0.55,-10.74,-11.04,-10.44,a,a
+Community Park,middle,6.3,4.99,-1.31,-1.34,-1.27,-20.72,-21.3,-20.14,b,a
+Flagship Park,middle,8.13,6.68,-1.45,-1.5,-1.4,-17.81,-18.41,-17.21,b,b
+Jointly Operated Playground,middle,4.48,4.49,0.01,-0.03,0.05,0.23,-0.71,1.17,b,b
+Nature Area,middle,5.76,6.3,0.54,0.46,0.62,9.39,7.99,10.79,b,b
+Neighborhood Park,middle,6.7,5.45,-1.25,-1.29,-1.21,-18.61,-19.21,-18.01,b,b
+Playground,middle,5.55,5.89,0.34,0.29,0.4,6.21,5.19,7.23,b,b
+Recreation Field/Courts,middle,6.52,5.29,-1.23,-1.3,-1.16,-18.85,-19.98,-17.73,b,b
+Triangle/Plaza,middle,10.4,9.47,-0.93,-1.03,-0.83,-8.95,-9.95,-7.95,b,b
+Overall,middle,6.51,5.6,-0.91,-0.93,-0.89,-13.93,-14.21,-13.65,b,b
+Community Park,upper,6.1,4.53,-1.57,-1.61,-1.53,-25.71,-26.38,-25.04,c,b
+Flagship Park,upper,7.53,5.75,-1.78,-1.83,-1.72,-23.6,-24.31,-22.88,c,c
+Jointly Operated Playground,upper,4.48,4.32,-0.17,-0.22,-0.11,-3.71,-4.9,-2.53,b,a
+Nature Area,upper,5.66,5.11,-0.55,-0.63,-0.48,-9.76,-11.07,-8.46,c,c
+Neighborhood Park,upper,5.62,4.88,-0.75,-0.79,-0.7,-13.27,-14.01,-12.52,c,c
+Playground,upper,6.24,6.53,0.29,0.22,0.37,4.68,3.47,5.89,c,c
+Recreation Field/Courts,upper,6.01,5.42,-0.59,-0.68,-0.5,-9.79,-11.31,-8.27,c,c
+Triangle/Plaza,upper,5.14,4.21,-0.94,-1.01,-0.86,-18.2,-19.58,-16.82,c,c
+Overall,upper,5.97,5.02,-0.95,-0.97,-0.93,-15.84,-16.17,-15.51,c,c
